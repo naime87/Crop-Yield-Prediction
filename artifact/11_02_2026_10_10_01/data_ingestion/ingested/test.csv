@@ -1,0 +1,923 @@
+Area,AP Ratio,District,Season,Avg Temp,Avg Humidity,Crop Name,Transplant,Growth,Harvest,Production,Max Temp,Min Temp,Max Relative Humidity,Min Relative Humidity
+56,0.9821428571,Jhallokati,Kharif 1,32.5,65.0,Taramind,February,March to April,February to May,55,40,25.0,50,80
+357,7.557422969,Khulna,Kharif 1,29.0,67.5,Guava,April,No need to do,Throuout The year,2698,35,23.0,50,85
+479,2.311064718,Khulna,Kharif 2,21.0,70.0,Palong Shak,Aug,Sep to Jan,Feb,1107,30,12.0,65,75
+345,4.223188406,Lalmonirhat,Kharif 1,29.0,67.5,Guava,April,No need to do,Throuout The year,1457,35,23.0,50,85
+1336,5.32260479,Khulna,Kharif 1,31.5,70.0,Mango,April,No need to do,April to June,7111,36,27.0,50,90
+434,4.382488479,Jashore,Kharif 1,22.5,75.0,Chalkumra,March,April to July,July to Oct,1902,27,18.0,65,85
+4404,6.514532243,Netrokona,Kharif 1,31.5,70.0,Mango,April,No need to do,April to June,28690,36,27.0,50,90
+120,1.65,Dinajpur,Kharif 1,25.0,72.5,Kakrol,April,May to July,July to Sep,198,30,20.0,60,85
+1851,5.774176121,Narsingdi,Rabi,20.5,80.0,Sweet Potato,Nov,Dec to March,April,10688,24,17.0,70,90
+180,5.544444444,Munshiganj,Kharif 2,26.5,75.0,Cucumber,Sep,Nov to March,March to jun,998,35,18.0,60,90
+2715,1.303867403,Gazipur,Kharif 1,25.0,70.0,Green Papaya,June,June to August,August to September,3540,30,20.0,60,80
+17465,2.934726596,Lalmonirhat,Kharif 1,27.0,72.5,Maize 1,March,April to May,June to July,51255,34,20.0,60,85
+167,6.700598802,Bagerhat,Kharif 1,25.0,70.0,Amra,June,June to August,August to September,1119,30,20.0,60,80
+11,0.6363636364,Patuakhali,Kharif 1,21.5,82.5,Dalim,April,No need to do,Throuout The year,7,38,5.0,70,95
+0,#DIV/0!,CoxsBazar,Kharif 2,30.0,70.0,Mug,Feb,March to May,May,0,35,25.0,60,80
+98,4.928571429,Narail,Kharif 1,11.5,77.5,Mukhi Kachu,April,May to Sep,Sep to Feb,483,15,8.0,65,90
+580,2.644827586,Rangamati,Kharif 1,11.5,77.5,Mukhi Kachu,April,May to Sep,Sep to Feb,1534,15,8.0,65,90
+0,#DIV/0!,Magura,Kharif 2,14.5,82.5,Shalgom,Sep,Oct to Nov,Nov to Feb,0,24,5.0,70,95
+663,19.60030166,Faridpur,Kharif 1,34.5,82.5,Jack Fruit,April,No need to do,April to June,12995,47,22.0,70,95
+0,#DIV/0!,Bhola,Kharif 1,11.5,77.5,Mukhi Kachu,April,May to Sep,Sep to Feb,0,15,8.0,65,90
+182,16.51648352,Sunamganj,Kharif 1,25.0,70.0,Green Coconut,May,June to August,August to September,3006,30,20.0,60,80
+470,4.9,Moulvibazar,Rabi,20.0,60.0,Pumpkin,Sep,Oct to Nov,Nov to Feb,2303,25,15.0,50,70
+32,3.25,Rajbari,Kharif 2,14.5,82.5,Shalgom,Sep,Oct to Nov,Nov to Feb,104,24,5.0,70,95
+1069,1.768007484,Chandpur,Kharif 2,25.0,67.5,Garlic,Oct,Nov to Jan,Feb,1890,30,20.0,65,70
+373,3.54691689,Rajbari,Kharif 1,27.5,80.0,Jambura,April,No need to do,May to June,1323,30,25.0,70,90
+59,2.661016949,Feni,Kharif 1,27.5,80.0,Jambura,April,No need to do,May to June,157,30,25.0,70,90
+32,3.46875,Cumilla,Kharif 2,26.5,75.0,Pineapple,Sep,Sep to May,June to Aug,111,35,18.0,70,80
+26,4.5,Chattogram,Kharif 1,32.5,65.0,Taramind,February,March to April,February to May,117,40,25.0,50,80
+729,1.249657064,Gaibandha,Kharif 2,25.0,67.5,Garlic,Oct,Nov to Jan,Feb,911,30,20.0,65,70
+248,2.814516129,Gaibandha,Rabi,25.0,80.0,Danta,March,April to Aug,Sep,698,32,18.0,75,85
+105,0.4761904762,Lalmonirhat,Rabi,31.0,45.0,Sesame,Nov,Dec to Jan,Feb,50,35,27.0,40,50
+659,2.71168437,Bhola,Kharif 2,26.5,80.0,Gourd,July,Aug to Jan,Jan to March,1787,35,18.0,75,85
+116,6.051724138,Chuadanga,Rabi,20.5,80.0,Sweet Potato,Nov,Dec to March,April,702,24,17.0,70,90
+1381,1.171614772,Sherpur,Rabi,22.5,60.0,Chili,Oct,Nov to March,March to April,1618,30,15.0,50,70
+2350,3.968510638,Rajshahi,Rabi,20.0,60.0,Boroi,March,No need to do,February to March,9326,25,15.0,50,70
+0,#DIV/0!,Pabna,Kharif 2,17.5,67.5,Tobacco,Oct,Nov to Feb,Feb to April,0,20,15.0,50,85
+19706,1.143306607,Satkhira,Kharif 1,26.0,72.5,Aus,March,April to july,Aug,22530,40,12.0,60,85
+27,2.62962963,Khulna,Rabi,20.5,80.0,Sweet Potato,Nov,Dec to March,April,71,24,17.0,70,90
+0,#DIV/0!,Bhola,Kharif 2,28.0,35.0,Arhar,Aug,Sep to Oct,Nov,0,30,26.0,20,50
+0,#DIV/0!,Netrokona,Rabi,21.0,62.5,Cheena,Nov,Dec to Feb,Feb to April,0,25,17.0,40,85
+703,14.74110953,Kurigram,Kharif 2,29.0,65.0,Sugarcane,Oct,Nov to Aug,Aug to Sep,10363,38,20.0,45,85
+432,3.046296296,Feni,Kharif 2,16.0,85.0,Radish,Oct,Nov to Feb,March,1316,22,10.0,75,95
+75,10.30666667,Lalmonirhat,Kharif 1,30.0,80.0,Ripe Papaya,April,No need to do,April to May,773,35,25.0,70,90
+7010,0.4417974322,Sirajganj,Kharif 2,15.0,90.0,Lentil,Oct,Nov  to  Feb,Feb to March,3097,20,10.0,85,95
+14,0.1428571429,Lakshmipur,Kharif 2,28.0,35.0,Arhar,Aug,Sep to Oct,Nov,2,30,26.0,20,50
+287,2.512195122,Netrokona,Kharif 1,25.0,70.0,Wood Apple,May,June to August,August to September,721,30,20.0,60,80
+0,#DIV/0!,Gaibandha,Kharif 1,27.5,85.0,Malta,June,June to August,August to September,0,35,20.0,80,90
+943,3.20678685,Jashore,Kharif 1,20.0,80.0,Lady’s Finger,April,May to June,June to Sep,3024,30,10.0,75,85
+0,#DIV/0!,Narsingdi,Kharif 1,27.0,72.5,Maize 1,March,April to May,June to July,0,34,20.0,60,85
+0,#DIV/0!,Narail,Kharif 1,27.0,72.5,Maize 1,March,April to May,June to July,0,34,20.0,60,85
+0,#DIV/0!,Jhallokati,Kharif 1,27.0,72.5,Maize 1,March,April to May,June to July,0,34,20.0,60,85
+32,0.28125,Thakurgaon,Kharif 2,22.5,82.5,Motor,Oct,Nov to March,March to April,9,30,15.0,75,90
+332,3.421686747,Panchagar,Kharif 1,22.5,75.0,Chalkumra,March,April to July,July to Oct,1136,27,18.0,65,85
+11,4.363636364,Rajbari,Kharif 1,24.0,70.0,Safeda,April,No need to do,Jan to March,48,38,10.0,60,80
+826,6.215496368,Chuadanga,Kharif 1,11.5,77.5,Mukhi Kachu,April,May to Sep,Sep to Feb,5134,15,8.0,65,90
+178,5.191011236,Kurigram,Kharif 1,29.0,67.5,Guava,April,No need to do,Throuout The year,924,35,23.0,50,85
+0,#DIV/0!,CoxsBazar,Kharif 1,30.0,75.0,Jute,March,April to Aug,Sep,0,40,20.0,70,80
+710,7.438028169,Kushtia,Rabi,20.0,60.0,Pumpkin,Sep,Oct to Nov,Nov to Feb,5281,25,15.0,50,70
+22,5.136363636,Madaripur,Kharif 1,25.0,72.5,Kakrol,April,May to July,July to Sep,113,30,20.0,60,85
+1631,8.50030656,Naogaon,Rabi,25.0,80.0,Banana,Jan,Jan to Jan,Jan,13864,35,15.0,75,85
+0,#DIV/0!,Bhola,Rabi,20.0,67.5,Ginger,Oct,Nov to March,March to April,0,25,15.0,60,75
+64,17.953125,Sirajganj,Kharif 2,30.0,75.0,Green Palmyra,April,No need to do,May,1149,35,25.0,60,90
+2480,14.0141129,Pabna,Kharif 1,31.5,70.0,Mango,April,No need to do,April to June,34755,36,27.0,50,90
+547,3.314442413,Jhenaidah,Kharif 2,26.5,75.0,Cucumber,Sep,Nov to March,March to jun,1813,35,18.0,60,90
+363,1.027548209,Gazipur,Kharif 1,23.0,80.0,Jhinga,April,May to June,June to Aug,373,28,18.0,70,90
+2,0.5,Rangamati,Kharif 1,21.5,82.5,Dalim,April,No need to do,Throuout The year,1,38,5.0,70,95
+98,3.387755102,Sunamganj,Kharif 1,11.5,77.5,Mukhi Kachu,April,May to Sep,Sep to Feb,332,15,8.0,65,90
+1843,1.174715138,Satkhira,Rabi,17.75,55.0,Wheat,Dec,Jan  to  March,April,2165,20,15.5,50,60
+1207,1.965202983,Jamalpur,Kharif 2,25.0,67.5,Garlic,Oct,Nov to Jan,Feb,2372,30,20.0,65,70
+158,1.405063291,Bhola,Kharif 1,25.0,72.5,Kakrol,April,May to July,July to Sep,222,30,20.0,60,85
+749,2.618157543,Pabna,Kharif 2,21.0,70.0,Palong Shak,Aug,Sep to Jan,Feb,1961,30,12.0,65,75
+107,0.308411215,Bogura,Rabi,21.0,62.5,Cheena,Nov,Dec to Feb,Feb to April,33,25,17.0,40,85
+74,23.43243243,Panchagar,Kharif 1,25.0,70.0,Green Papaya,June,June to August,August to September,1734,30,20.0,60,80
+12373,4.176351734,Rajshahi,Kharif 2,25.0,67.5,Garlic,Oct,Nov to Jan,Feb,51674,30,20.0,65,70
+0,#DIV/0!,Magura,Rabi,21.0,62.5,Cheena,Nov,Dec to Feb,Feb to April,0,25,17.0,40,85
+1629,4.742786986,Narail,Kharif 1,31.5,70.0,Mango,April,No need to do,April to June,7726,36,27.0,50,90
+95,29.47368421,Joypurhat,Kharif 1,34.5,82.5,Jack Fruit,April,No need to do,April to June,2800,47,22.0,70,95
+2924,0.5523255814,Tangail,Rabi,27.5,85.0,Groundnut,Oct,Nov to March,March to April,1615,35,20.0,80,90
+774,2.759689922,Jamalpur,Kharif 2,25.0,70.0,Black Berry,June,July to August,June  to September,2136,30,20.0,65,75
+387,1.84754522,Lalmonirhat,Rabi,20.0,75.0,Lal Shak,Sep,Oct to Nov,Nov to Feb,715,25,15.0,70,80
+382,3.795811518,Bandarban,Rabi,20.5,80.0,Sweet Potato,Nov,Dec to March,April,1450,24,17.0,70,90
+598,3.913043478,Netrokona,Kharif 2,26.5,80.0,Gourd,July,Aug to Jan,Jan to March,2340,35,18.0,75,85
+155,18.20645161,Jashore,Rabi,20.0,60.0,Palmyra Palm,Sep,Oct to Nov,Nov to Feb,2822,25,15.0,50,70
+45,1.311111111,Chattogram,Kharif 1,24.0,70.0,Safeda,April,No need to do,Jan to March,59,38,10.0,60,80
+190,9.626315789,Bogura,Kharif 1,27.5,80.0,Jambura,April,No need to do,May to June,1829,30,25.0,70,90
+0,#DIV/0!,Pirojpur,Kharif 1,27.0,72.5,Maize 1,March,April to May,June to July,0,34,20.0,60,85
+86,0.3488372093,Noakhali,Kharif 2,15.0,90.0,Lentil,Oct,Nov  to  Feb,Feb to March,30,20,10.0,85,95
+1002,1.830339321,Cumilla,Kharif 2,30.0,75.0,Green Palmyra,April,No need to do,May,1834,35,25.0,60,90
+192,1.671875,Bandarban,Kharif 2,21.0,70.0,Puishak,Aug,Sep to Jan,Feb,321,30,12.0,65,75
+39,4.256410256,Barishal,Kharif 2,23.5,61.0,Oal Kachu,Sep,Oct to Dec,Dec to Feb,166,32,15.0,52,70
+61,0.2950819672,Kurigram,Kharif 2,28.0,35.0,Arhar,Aug,Sep to Oct,Nov,18,30,26.0,20,50
+607,2.434925865,Khagrachari,Kharif 1,29.0,67.5,Guava,April,No need to do,Throuout The year,1478,35,23.0,50,85
+15749,4.118991682,Bogura,Rabi,22.5,60.0,Chili,Oct,Nov to March,March to April,64870,30,15.0,50,70
+3,7.666666667,Sirajganj,Rabi,20.0,60.0,Palmyra Palm,Sep,Oct to Nov,Nov to Feb,23,25,15.0,50,70
+598,3.413043478,Tangail,Kharif 2,30.0,80.0,Betelnut,July,Aug to Jan,Jan to March,2041,35,25.0,70,90
+476,2.785714286,Kishoreganj,Kharif 1,23.0,80.0,Jhinga,April,May to June,June to Aug,1326,28,18.0,70,90
+163,1,Dinajpur,Kharif 1,25.0,70.0,Wood Apple,May,June to August,August to September,163,30,20.0,60,80
+487,1.316221766,Patuakhali,Kharif 1,25.0,70.0,Wood Apple,May,June to August,August to September,641,30,20.0,60,80
+289,1.588235294,Narsingdi,Kharif 2,25.0,72.5,Barbati,Sep,Oct to Dec,December to April,459,30,20.0,60,85
+208,12.62019231,Feni,Kharif 2,29.0,65.0,Sugarcane,Oct,Nov to Aug,Aug to Sep,2625,38,20.0,45,85
+0,#DIV/0!,Narayanganj,Rabi,21.0,62.5,Cheena,Nov,Dec to Feb,Feb to April,0,25,17.0,40,85
+0,#DIV/0!,Feni,Rabi,21.0,62.5,Cheena,Nov,Dec to Feb,Feb to April,0,25,17.0,40,85
+24786,0.3568950214,Chapai Nawabganj,Kharif 2,22.5,75.0,Rape & Mustard,Oct,Nov to Feb,Feb to April,8846,30,15.0,65,85
+393,1.842239186,Gaibandha,Rabi,25.5,87.5,Karala,Feb,March to July,Aug to Sep,724,27,24.0,85,90
+0,#DIV/0!,Sunamganj,Kharif 1,27.5,85.0,Malta,June,June to August,August to September,0,35,20.0,80,90
+68,0.9411764706,Moulvibazar,Kharif 1,27.5,90.0,Kolmi Shak,March,April to Aug,Sep to Oct,64,35,20.0,80,100
+572,4.956293706,Kushtia,Rabi,25.0,80.0,Danta,March,April to Aug,Sep,2835,32,18.0,75,85
+563,0.9253996448,Barishal,Kharif 1,25.0,70.0,Wood Apple,May,June to August,August to September,521,30,20.0,60,80
+1760,3.284659091,Barishal,Rabi,25.0,80.0,Banana,Jan,Jan to Jan,Jan,5781,35,15.0,75,85
+84,8.607142857,Bagerhat,Kharif 1,27.5,80.0,Jambura,April,No need to do,May to June,723,30,25.0,70,90
+740,3.810810811,Jhallokati,Rabi,20.5,80.0,Sweet Potato,Nov,Dec to March,April,2820,24,17.0,70,90
+3936,2.854166667,Jhenaidah,Kharif 2,25.0,67.5,Garlic,Oct,Nov to Jan,Feb,11234,30,20.0,65,70
+2631,0.3968072976,Rajshahi,Rabi,31.0,45.0,Sesame,Nov,Dec to Jan,Feb,1044,35,27.0,40,50
+218,15.65137615,Chandpur,Kharif 2,30.0,75.0,Green Palmyra,April,No need to do,May,3412,35,25.0,60,90
+2,0,Lakshmipur,Rabi,21.0,62.5,Cheena,Nov,Dec to Feb,Feb to April,0,25,17.0,40,85
+442,2.393665158,Jamalpur,Kharif 1,23.0,80.0,Jhinga,April,May to June,June to Aug,1058,28,18.0,70,90
+0,#DIV/0!,CoxsBazar,Rabi,20.0,60.0,Palmyra Palm,Sep,Oct to Nov,Nov to Feb,0,25,15.0,50,70
+6817,3.883379786,Naogaon,Rabi,20.0,67.5,Onion,Oct,Nov to March,March to April,26473,25,15.0,65,70
+11787,1.194451514,Madaripur,Rabi,17.75,55.0,Wheat,Dec,Jan  to  March,April,14079,20,15.5,50,60
+1908,3.083333333,Mymensingh,Kharif 1,22.5,75.0,Chalkumra,March,April to July,July to Oct,5883,27,18.0,65,85
+2769,0.7273383893,Sunamganj,Rabi,27.5,85.0,Groundnut,Oct,Nov to March,March to April,2014,35,20.0,80,90
+261,0.6704980843,Dhaka,Rabi,27.5,85.0,Groundnut,Oct,Nov to March,March to April,175,35,20.0,80,90
+5325,6.798122066,Mymensingh,Rabi,25.0,80.0,Banana,Jan,Jan to Jan,Jan,36200,35,15.0,75,85
+5416,0.4710118168,Munshiganj,Kharif 2,22.5,75.0,Rape & Mustard,Oct,Nov to Feb,Feb to April,2551,30,15.0,65,85
+182,2.175824176,Habiganj,Rabi,25.5,87.5,Karala,Feb,March to July,Aug to Sep,396,27,24.0,85,90
+177,10.33333333,Gaibandha,Kharif 1,25.0,70.0,Green Papaya,June,June to August,August to September,1829,30,20.0,60,80
+14,1.428571429,Panchagar,Kharif 1,24.0,70.0,Safeda,April,No need to do,Jan to March,20,38,10.0,60,80
+96,3.572916667,Narail,Kharif 2,23.5,61.0,Oal Kachu,Sep,Oct to Dec,Dec to Feb,343,32,15.0,52,70
+357,5.473389356,Narail,Kharif 2,17.0,75.0,Cabbage,Sep,Oct to Jan,Feb,1954,24,10.0,60,90
+123,1.756097561,Pirojpur,Kharif 2,21.0,70.0,Palong Shak,Aug,Sep to Jan,Feb,216,30,12.0,65,75
+58,22.96551724,Bagerhat,Kharif 1,24.0,70.0,Safeda,April,No need to do,Jan to March,1332,38,10.0,60,80
+83,2.012048193,Bandarban,Kharif 1,25.0,70.0,Wood Apple,May,June to August,August to September,167,30,20.0,60,80
+303,1.330033003,Moulvibazar,Kharif 1,20.0,80.0,Lady’s Finger,April,May to June,June to Sep,403,30,10.0,75,85
+175,2.342857143,Lalmonirhat,Rabi,25.0,80.0,Danta,March,April to Aug,Sep,410,32,18.0,75,85
+994,6.142857143,Kushtia,Kharif 2,17.0,75.0,Cabbage,Sep,Oct to Jan,Feb,6106,24,10.0,60,90
+549,1.62295082,Jashore,Kharif 1,25.0,70.0,Wood Apple,May,June to August,August to September,891,30,20.0,60,80
+89,1.449438202,Barguna,Kharif 2,25.0,72.5,Barbati,Sep,Oct to Dec,December to April,129,30,20.0,60,85
+65,2.061538462,Magura,Rabi,27.5,85.0,Groundnut,Oct,Nov to March,March to April,134,35,20.0,80,90
+0,#DIV/0!,Jhallokati,Kharif 2,17.5,67.5,Tobacco,Oct,Nov to Feb,Feb to April,0,20,15.0,50,85
+44,13.18181818,Thakurgaon,Kharif 1,30.0,80.0,Ripe Papaya,April,No need to do,April to May,580,35,25.0,70,90
+551,1.843920145,Munshiganj,Kharif 1,16.0,67.5,Beans,June,July to Nov,Nov to April,1016,22,10.0,60,75
+49,0.3265306122,Chandpur,Rabi,21.0,62.5,Cheena,Nov,Dec to Feb,Feb to April,16,25,17.0,40,85
+623,3.422150883,Joypurhat,Kharif 2,27.5,72.5,Patal,Aug,Sep to Jan,Jan to March,2132,35,20.0,60,85
+996,5.029116466,Narsingdi,Kharif 1,31.5,70.0,Mango,April,No need to do,April to June,5009,36,27.0,50,90
+177,1.920903955,Netrokona,Rabi,20.0,80.0,Laushak,Sep,Oct to Nov,Nov to Feb,340,25,15.0,70,90
+91,19.17582418,Kushtia,Kharif 1,27.5,80.0,Jambura,April,No need to do,May to June,1745,30,25.0,70,90
+359,2.883008357,Bogura,Kharif 1,20.0,80.0,Lady’s Finger,April,May to June,June to Sep,1035,30,10.0,75,85
+200,8.465,Satkhira,Kharif 1,30.0,80.0,Ripe Papaya,April,No need to do,April to May,1693,35,25.0,70,90
+2640,8.433712121,Mymensingh,Kharif 2,17.0,75.0,Cabbage,Sep,Oct to Jan,Feb,22265,24,10.0,60,90
+0,#DIV/0!,Sherpur,Kharif 2,17.5,67.5,Tobacco,Oct,Nov to Feb,Feb to April,0,20,15.0,50,85
+1541,4.063595068,Bandarban,Kharif 2,26.5,75.0,Pineapple,Sep,Sep to May,June to Aug,6262,35,18.0,70,80
+300,8.11,Khagrachari,Kharif 1,25.0,70.0,Green Papaya,June,June to August,August to September,2433,30,20.0,60,80
+483,3.424430642,Noakhali,Rabi,20.0,67.5,Onion,Oct,Nov to March,March to April,1654,25,15.0,65,70
+26691,0.4986324978,Pabna,Kharif 2,15.0,90.0,Lentil,Oct,Nov  to  Feb,Feb to March,13309,20,10.0,85,95
+152,0.5789473684,Rangamati,Kharif 2,22.5,82.5,Motor,Oct,Nov to March,March to April,88,30,15.0,75,90
+914,2.214442013,Dhaka,Kharif 2,21.0,70.0,Puishak,Aug,Sep to Jan,Feb,2024,30,12.0,65,75
+155,3.303225806,Magura,Rabi,20.5,60.0,Maize 2,Dec,Jan  to  March,April,512,27,14.0,50,70
+310,3.958064516,Patuakhali,Rabi,20.0,60.0,Pumpkin,Sep,Oct to Nov,Nov to Feb,1227,25,15.0,50,70
+0,#DIV/0!,Joypurhat,Rabi,27.5,85.0,Groundnut,Oct,Nov to March,March to April,0,35,20.0,80,90
+60887,3.919999343,Jamalpur,Kharif 1,30.0,75.0,Jute,March,April to Aug,Sep,238677,40,20.0,70,80
+54,5.222222222,Sherpur,Kharif 2,30.0,75.0,Green Palmyra,April,No need to do,May,282,35,25.0,60,90
+2067,4.892114175,Chattogram,Rabi,20.0,60.0,Pumpkin,Sep,Oct to Nov,Nov to Feb,10112,25,15.0,50,70
+583,7.468267581,Sirajganj,Rabi,25.0,80.0,Banana,Jan,Jan to Jan,Jan,4354,35,15.0,75,85
+0,#DIV/0!,Barishal,Kharif 2,17.5,67.5,Tobacco,Oct,Nov to Feb,Feb to April,0,20,15.0,50,85
+0,#DIV/0!,Noakhali,Kharif 1,27.0,72.5,Maize 1,March,April to May,June to July,0,34,20.0,60,85
+608,5.582236842,Dhaka,Kharif 2,21.0,70.0,Palong Shak,Aug,Sep to Jan,Feb,3394,30,12.0,65,75
+22,1,Thakurgaon,Kharif 2,23.5,61.0,Oal Kachu,Sep,Oct to Dec,Dec to Feb,22,32,15.0,52,70
+0,#DIV/0!,Kushtia,Kharif 2,14.5,82.5,Shalgom,Sep,Oct to Nov,Nov to Feb,0,24,5.0,70,95
+61148,1.07875973,Thakurgaon,Kharif 1,26.0,72.5,Aus,March,April to july,Aug,65964,40,12.0,60,85
+1037,7.462873674,Habiganj,Kharif 2,16.0,85.0,Radish,Oct,Nov to Feb,March,7739,22,10.0,75,95
+1536,7.524088542,Kishoreganj,Rabi,25.0,80.0,Banana,Jan,Jan to Jan,Jan,11557,35,15.0,75,85
+0,#DIV/0!,Tangail,Kharif 1,24.0,70.0,Safeda,April,No need to do,Jan to March,2,38,10.0,60,80
+0,#DIV/0!,Khulna,Rabi,27.5,85.0,Groundnut,Oct,Nov to March,March to April,0,35,20.0,80,90
+23,0.6956521739,Habiganj,Kharif 1,32.5,65.0,Taramind,February,March to April,February to May,16,40,25.0,50,80
+26,2.5,Dinajpur,Kharif 1,21.5,82.5,Dalim,April,No need to do,Throuout The year,65,38,5.0,70,95
+213,2.615023474,Gazipur,Rabi,17.5,77.5,Lemon,Jan,Jan to Jan,Jan,557,25,10.0,60,95
+732,3.023224044,Khulna,Rabi,20.0,60.0,Pumpkin,Sep,Oct to Nov,Nov to Feb,2213,25,15.0,50,70
+111,5.171171171,Dinajpur,Kharif 2,25.0,70.0,Black Berry,June,July to August,June  to September,574,30,20.0,65,75
+306,1.104575163,Pabna,Kharif 1,32.5,65.0,Taramind,February,March to April,February to May,338,40,25.0,50,80
+0,#DIV/0!,Pirojpur,Kharif 2,17.5,67.5,Tobacco,Oct,Nov to Feb,Feb to April,0,20,15.0,50,85
+480,22.54583333,Chandpur,Kharif 1,34.5,82.5,Jack Fruit,April,No need to do,April to June,10822,47,22.0,70,95
+19,6.263157895,Rangpur,Kharif 1,32.5,65.0,Taramind,February,March to April,February to May,119,40,25.0,50,80
+10,4.8,Kishoreganj,Kharif 2,26.5,75.0,Pineapple,Sep,Sep to May,June to Aug,48,35,18.0,70,80
+92,0.3913043478,Netrokona,Kharif 2,15.0,90.0,Lentil,Oct,Nov  to  Feb,Feb to March,36,20,10.0,85,95
+76552,1.571219563,Lakshmipur,Rabi,26.0,72.5,Boro,Nov,Dec to March,April,120280,40,12.0,60,85
+815,9.607361963,Narail,Kharif 1,34.5,82.5,Jack Fruit,April,No need to do,April to June,7830,47,22.0,70,95
+103,1.203883495,Jhallokati,Kharif 1,27.5,90.0,Kolmi Shak,March,April to Aug,Sep to Oct,124,35,20.0,80,100
+0,#DIV/0!,Sunamganj,Kharif 2,23.5,61.0,Oal Kachu,Sep,Oct to Dec,Dec to Feb,0,32,15.0,52,70
+896,0.4207589286,Narail,Kharif 2,22.5,82.5,Motor,Oct,Nov to March,March to April,377,30,15.0,75,90
+0,#DIV/0!,Satkhira,Kharif 2,17.5,67.5,Tobacco,Oct,Nov to Feb,Feb to April,0,20,15.0,50,85
+854,0.5655737705,Bagerhat,Rabi,22.5,60.0,Chili,Oct,Nov to March,March to April,483,30,15.0,50,70
+310,4.561290323,Manikganj,Rabi,17.5,77.5,Lemon,Jan,Jan to Jan,Jan,1414,25,10.0,60,95
+703,6.230440967,Sunamganj,Rabi,20.5,80.0,Sweet Potato,Nov,Dec to March,April,4380,24,17.0,70,90
+0,#DIV/0!,Brahmanbaria,Kharif 2,28.0,35.0,Arhar,Aug,Sep to Oct,Nov,0,30,26.0,20,50
+71,1.76056338,Netrokona,Kharif 1,27.5,90.0,Kolmi Shak,March,April to Aug,Sep to Oct,125,35,20.0,80,100
+83,2.012048193,Narsingdi,Kharif 2,27.5,72.5,Patal,Aug,Sep to Jan,Jan to March,167,35,20.0,60,85
+56124,1.415829235,Naogaon,Rabi,17.75,55.0,Wheat,Dec,Jan  to  March,April,79462,20,15.5,50,60
+489,12.98364008,Jhenaidah,Kharif 1,25.0,70.0,Green Papaya,June,June to August,August to September,6349,30,20.0,60,80
+414,2.299516908,Munshiganj,Rabi,20.0,75.0,Lal Shak,Sep,Oct to Nov,Nov to Feb,952,25,15.0,70,80
+21,0.3333333333,Brahmanbaria,Kharif 2,30.0,70.0,Mug,Feb,March to May,May,7,35,25.0,60,80
+44132,3.241616061,Rangpur,Rabi,20.5,60.0,Maize 2,Dec,Jan  to  March,April,143059,27,14.0,50,70
+110,2.4,Faridpur,Rabi,17.5,77.5,Lemon,Jan,Jan to Jan,Jan,264,25,10.0,60,95
+77506,1.550641241,Panchagar,Rabi,26.0,72.5,Boro,Nov,Dec to March,April,120184,40,12.0,60,85
+10,1.1,Netrokona,Kharif 1,20.5,72.5,Date Palm,April,No need to do,Feb to March,11,35,6.0,60,85
+297,2.185185185,Patuakhali,Kharif 2,26.5,80.0,Gourd,July,Aug to Jan,Jan to March,649,35,18.0,75,85
+46,0.6086956522,Bagerhat,Rabi,27.5,85.0,Groundnut,Oct,Nov to March,March to April,28,35,20.0,80,90
+321,1.211838006,Satkhira,Rabi,17.5,77.5,Lemon,Jan,Jan to Jan,Jan,389,25,10.0,60,95
+0,#DIV/0!,Feni,Kharif 2,18.0,66.5,Carrot,Oct,Nov to Feb,March,0,21,15.0,47,86
+10,1.9,Khulna,Kharif 1,27.0,72.5,Maize 1,March,April to May,June to July,19,34,20.0,60,85
+34,13.11764706,Kishoreganj,Kharif 2,30.0,75.0,Green Palmyra,April,No need to do,May,446,35,25.0,60,90
+1147,6.238012206,Mymensingh,Kharif 2,26.5,75.0,Cucumber,Sep,Nov to March,March to jun,7155,35,18.0,60,90
+394,1.875634518,Khagrachari,Kharif 2,25.0,70.0,Black Berry,June,July to August,June  to September,739,30,20.0,65,75
+238,1.62605042,Barguna,Rabi,20.0,75.0,Lal Shak,Sep,Oct to Nov,Nov to Feb,387,25,15.0,70,80
+1172,0.7081911263,Sunamganj,Rabi,17.75,55.0,Wheat,Dec,Jan  to  March,April,830,20,15.5,50,60
+320,1.675,Rajbari,Rabi,20.0,60.0,Boroi,April,No need to do,February to March,536,25,15.0,50,70
+4860,0.4816872428,Pabna,Kharif 2,27.5,35.0,Mashkalai,Aug,Sep to Oct,Nov,2341,35,20.0,25,45
+381,2.338582677,Khulna,Kharif 1,23.0,80.0,Jhinga,April,May to June,June to Aug,891,28,18.0,70,90
+2513,0.4409072821,Kishoreganj,Kharif 2,22.5,75.0,Rape & Mustard,Oct,Nov to Feb,Feb to April,1108,30,15.0,65,85
+95,26.71578947,Bagerhat,Kharif 1,34.5,82.5,Jack Fruit,April,No need to do,April to June,2538,47,22.0,70,95
+212,9.613207547,Netrokona,Rabi,17.5,77.5,Lemon,Jan,Jan to Jan,Jan,2038,25,10.0,60,95
+0,#DIV/0!,Sylhet,Kharif 1,24.0,70.0,Safeda,April,No need to do,Jan to March,0,38,10.0,60,80
+82,2.134146341,Sunamganj,Kharif 2,25.0,72.5,Barbati,Sep,Oct to Dec,December to April,175,30,20.0,60,85
+949,4.979978925,Pabna,Kharif 1,22.5,75.0,Chalkumra,March,April to July,July to Oct,4726,27,18.0,65,85
+259,4.111969112,Habiganj,Kharif 1,22.5,75.0,Chalkumra,March,April to July,July to Oct,1065,27,18.0,65,85
+213,0.6995305164,Naogaon,Rabi,27.5,85.0,Groundnut,Oct,Nov to March,March to April,149,35,20.0,80,90
+240,5.383333333,Natore,Rabi,17.5,77.5,Lemon,Jan,Jan to Jan,Jan,1292,25,10.0,60,95
+336,1.485119048,Gazipur,Rabi,20.0,75.0,Lal Shak,Sep,Oct to Nov,Nov to Feb,499,25,15.0,70,80
+0,#DIV/0!,Khagrachari,Kharif 2,27.5,72.5,Patal,Aug,Sep to Jan,Jan to March,0,35,20.0,60,85
+686,4.648688047,Habiganj,Rabi,20.5,80.0,Sweet Potato,Nov,Dec to March,April,3189,24,17.0,70,90
+59,1.86440678,Joypurhat,Kharif 1,27.5,90.0,Kolmi Shak,March,April to Aug,Sep to Oct,110,35,20.0,80,100
+32,4.59375,Chuadanga,Kharif 2,14.5,82.5,Shalgom,Sep,Oct to Nov,Nov to Feb,147,24,5.0,70,95
+2,5.5,Kurigram,Kharif 2,23.5,61.0,Oal Kachu,Sep,Oct to Dec,Dec to Feb,11,32,15.0,52,70
+10,2.9,Panchagar,Kharif 1,32.5,65.0,Taramind,February,March to April,February to May,29,40,25.0,50,80
+131,1.038167939,Jhallokati,Kharif 1,25.0,72.5,Kakrol,April,May to July,July to Sep,136,30,20.0,60,85
+930,7.101075269,Brahmanbaria,Kharif 2,19.0,77.5,Cauliflower,Sep,Nov to Jan,Feb,6604,30,8.0,70,85
+21,4.047619048,Chandpur,Kharif 2,18.0,66.5,Carrot,Oct,Nov to Feb,March,85,21,15.0,47,86
+44594,1.334080818,Panchagar,Rabi,17.75,55.0,Wheat,Dec,Jan  to  March,April,59492,20,15.5,50,60
+1898,0.7260273973,Brahmanbaria,Rabi,17.75,55.0,Wheat,Dec,Jan  to  March,April,1378,20,15.5,50,60
+333,5.618618619,Kushtia,Kharif 2,30.0,80.0,Betelnut,July,Aug to Jan,Jan to March,1871,35,25.0,70,90
+80,6.3875,Tangail,Kharif 2,25.0,70.0,Black Berry,June,July to August,June  to September,511,30,20.0,65,75
+13,1.769230769,Chapai Nawabganj,Kharif 1,32.5,65.0,Taramind,February,March to April,February to May,23,40,25.0,50,80
+132,0.2651515152,Gazipur,Kharif 2,30.0,70.0,Mug,Feb,March to May,May,35,35,25.0,60,80
+210,0.380952381,Barguna,Kharif 2,27.5,35.0,Mashkalai,Aug,Sep to Oct,Nov,80,35,20.0,25,45
+85229,1.068098887,Narail,Kharif 2,26.0,72.5,Aman,June,July to  Oct,Nov to Dec,91033,40,12.0,60,85
+155,21,Jamalpur,Kharif 1,30.0,80.0,Ripe Papaya,April,No need to do,April to May,3255,35,25.0,70,90
+11154,1.009144701,Khagrachari,Kharif 1,26.0,72.5,Aus,March,April to july,Aug,11256,40,12.0,60,85
+316,6.693037975,Cumilla,Kharif 1,27.5,80.0,Jambura,April,No need to do,May to June,2115,30,25.0,70,90
+24,2.5,Noakhali,Kharif 1,32.5,65.0,#REF!,February,March to April,February to May,60,40,25.0,50,80
+3677,6.819146043,Narsingdi,Rabi,25.0,80.0,Banana,Jan,Jan to Jan,Jan,25074,35,15.0,75,85
+16235,0.4654758238,Madaripur,Kharif 2,22.5,75.0,Rape & Mustard,Oct,Nov to Feb,Feb to April,7557,30,15.0,65,85
+1803,7.830282862,Lalmonirhat,Kharif 2,19.0,77.5,Cauliflower,Sep,Nov to Jan,Feb,14118,30,8.0,70,85
+19457,0.9198231999,Manikganj,Kharif 2,26.0,72.5,Aman,June,July to  Oct,Nov to Dec,17897,40,12.0,60,85
+3748,1.634204909,Rangamati,Kharif 1,31.5,70.0,Mango,April,No need to do,April to June,6125,36,27.0,50,90
+1278,2.773082942,Sherpur,Rabi,20.0,67.5,Onion,Oct,Nov to March,March to April,3544,25,15.0,65,70
+11,0.3636363636,Bogura,Kharif 2,30.0,70.0,Mug,Feb,March to May,May,4,35,25.0,60,80
+101,1.851485149,Meherpur,Kharif 1,25.0,70.0,Amra,June,June to August,August to September,187,30,20.0,60,80
+288,2.194444444,Lalmonirhat,Rabi,25.5,87.5,Karala,Feb,March to July,Aug to Sep,632,27,24.0,85,90
+157,4.299363057,Joypurhat,Kharif 2,21.0,70.0,Puishak,Aug,Sep to Jan,Feb,675,30,12.0,65,75
+614,3.892508143,Dinajpur,Rabi,20.0,60.0,Pumpkin,Sep,Oct to Nov,Nov to Feb,2390,25,15.0,50,70
+900,2.31,Pirojpur,Kharif 1,30.0,75.0,Jute,March,April to Aug,Sep,2079,40,20.0,70,80
+450,1.591111111,Dinajpur,Kharif 1,23.0,80.0,Jhinga,April,May to June,June to Aug,716,28,18.0,70,90
+29,47.86206897,Narail,Kharif 1,30.0,80.0,Ripe Papaya,April,No need to do,April to May,1388,35,25.0,70,90
+1288,5.22826087,Tangail,Rabi,20.0,60.0,Pumpkin,Sep,Oct to Nov,Nov to Feb,6734,25,15.0,50,70
+204,11.90686275,Naogaon,Rabi,20.0,60.0,Palmyra Palm,Sep,Oct to Nov,Nov to Feb,2429,25,15.0,50,70
+13581,11.16154922,Lakshmipur,Kharif 2,30.0,80.0,Betelnut,July,Aug to Jan,Jan to March,151585,35,25.0,70,90
+6,1.666666667,Gazipur,Rabi,20.5,60.0,Maize 2,Dec,Jan  to  March,April,10,27,14.0,50,70
+280,1.446428571,Narsingdi,Kharif 1,23.0,80.0,Jhinga,April,May to June,June to Aug,405,28,18.0,70,90
+0,#DIV/0!,Bandarban,Kharif 1,20.5,72.5,Date Palm,April,No need to do,Feb to March,0,35,6.0,60,85
+1042,6.452015355,Sherpur,Rabi,20.5,80.0,Sweet Potato,Nov,Dec to March,April,6723,24,17.0,70,90
+51,8.392156863,Joypurhat,Kharif 2,30.0,75.0,Green Palmyra,April,No need to do,May,428,35,25.0,60,90
+1717,7.220151427,Pabna,Kharif 2,19.0,77.5,Cauliflower,Sep,Nov to Jan,Feb,12397,30,8.0,70,85
+39,14.58974359,Brahmanbaria,Kharif 1,30.0,80.0,Ripe Papaya,April,No need to do,April to May,569,35,25.0,70,90
+399,2.127819549,Gazipur,Kharif 2,21.0,70.0,Puishak,Aug,Sep to Jan,Feb,849,30,12.0,65,75
+0,#DIV/0!,Feni,Kharif 2,14.5,82.5,Shalgom,Sep,Oct to Nov,Nov to Feb,0,24,5.0,70,95
+0,#DIV/0!,Netrokona,Kharif 2,14.5,82.5,Shalgom,Sep,Oct to Nov,Nov to Feb,0,24,5.0,70,95
+104,0.4134615385,Khagrachari,Kharif 2,22.5,82.5,Motor,Oct,Nov to March,March to April,43,30,15.0,75,90
+300,12.53,Bandarban,Kharif 1,34.5,82.5,Jack Fruit,April,No need to do,April to June,3759,47,22.0,70,95
+0,#DIV/0!,Jhallokati,Kharif 2,27.5,35.0,Mashkalai,Aug,Sep to Oct,Nov,0,35,20.0,25,45
+76,1.657894737,Thakurgaon,Rabi,20.0,80.0,Laushak,Sep,Oct to Nov,Nov to Feb,126,25,15.0,70,90
+1258,4.392686804,Noakhali,Rabi,20.0,60.0,Pumpkin,Sep,Oct to Nov,Nov to Feb,5526,25,15.0,50,70
+244,1.631147541,Bhola,Rabi,25.0,80.0,Danta,March,April to Aug,Sep,398,32,18.0,75,85
+149,1.395973154,Habiganj,Kharif 2,30.0,75.0,Green Palmyra,April,No need to do,May,208,35,25.0,60,90
+433,1.240184758,Khagrachari,Rabi,20.0,80.0,Laushak,Sep,Oct to Nov,Nov to Feb,537,25,15.0,70,90
+147,10.23809524,Noakhali,Kharif 1,34.5,82.5,Jack Fruit,April,No need to do,April to June,1505,47,22.0,70,95
+560,1.569642857,Barishal,Rabi,20.0,67.5,Onion,Oct,Nov to March,March to April,879,25,15.0,65,70
+228,1.938596491,Manikganj,Kharif 2,21.0,70.0,Palong Shak,Aug,Sep to Jan,Feb,442,30,12.0,65,75
+0,#DIV/0!,Naogaon,Kharif 1,24.0,70.0,Safeda,April,No need to do,Jan to March,0,38,10.0,60,80
+495,0.6262626263,Kushtia,Rabi,27.5,85.0,Groundnut,Oct,Nov to March,March to April,310,35,20.0,80,90
+52,0.5961538462,Chuadanga,Rabi,27.5,85.0,Groundnut,Oct,Nov to March,March to April,31,35,20.0,80,90
+144,1.354166667,Patuakhali,Kharif 2,25.0,70.0,Black Berry,June,July to August,June  to September,195,30,20.0,65,75
+114,2.666666667,Sherpur,Rabi,17.5,77.5,Lemon,Jan,Jan to Jan,Jan,304,25,10.0,60,95
+445,1.395505618,Thakurgaon,Kharif 1,23.0,80.0,Jhinga,April,May to June,June to Aug,621,28,18.0,70,90
+5,1.6,Rajbari,Rabi,20.0,67.5,Ginger,Oct,Nov to March,March to April,8,25,15.0,60,75
+1635,6.297859327,Cumilla,Kharif 2,26.5,80.0,Gourd,July,Aug to Jan,Jan to March,10297,35,18.0,75,85
+1510,0.4728476821,Barishal,Rabi,31.0,45.0,Sesame,Nov,Dec to Jan,Feb,714,35,27.0,40,50
+255,2.02745098,Netrokona,Rabi,25.5,87.5,Karala,Feb,March to July,Aug to Sep,517,27,24.0,85,90
+107,3.485981308,Jashore,Kharif 2,26.5,75.0,Pineapple,Sep,Sep to May,June to Aug,373,35,18.0,70,80
+849,2.876325088,Manikganj,Kharif 1,22.5,75.0,Chalkumra,March,April to July,July to Oct,2442,27,18.0,65,85
+0,#DIV/0!,Barishal,Kharif 2,28.0,35.0,Arhar,Aug,Sep to Oct,Nov,0,30,26.0,20,50
+14,3.214285714,Shariatpur,Kharif 2,18.0,66.5,Carrot,Oct,Nov to Feb,March,45,21,15.0,47,86
+180,1.544444444,Faridpur,Kharif 2,27.5,72.5,Patal,Aug,Sep to Jan,Jan to March,278,35,20.0,60,85
+533,3.150093809,Sherpur,Kharif 1,16.0,67.5,Beans,June,July to Nov,Nov to April,1679,22,10.0,60,75
+28308,4.139995761,Sirajganj,Kharif 1,30.0,75.0,Jute,March,April to Aug,Sep,117195,40,20.0,70,80
+91,4.417582418,Gopalganj,Kharif 2,25.0,70.0,Black Berry,June,July to August,June  to September,402,30,20.0,65,75
+95,0.5157894737,Chandpur,Kharif 2,22.5,82.5,Motor,Oct,Nov to March,March to April,49,30,15.0,75,90
+457,1.934354486,Khagrachari,Kharif 2,21.0,70.0,Puishak,Aug,Sep to Jan,Feb,884,30,12.0,65,75
+202,2.222772277,Gazipur,Kharif 2,21.0,70.0,Palong Shak,Aug,Sep to Jan,Feb,449,30,12.0,65,75
+16,5.625,Rajshahi,Kharif 1,21.5,82.5,Dalim,April,No need to do,Throuout The year,90,38,5.0,70,95
+29,0.4137931034,Narayanganj,Kharif 2,30.0,70.0,Mug,Feb,March to May,May,12,35,25.0,60,80
+1059,7.805476865,Dhaka,Kharif 2,16.0,85.0,Radish,Oct,Nov to Feb,March,8266,22,10.0,75,95
+40,4.875,Thakurgaon,Kharif 1,27.5,85.0,Malta,June,June to August,August to September,195,35,20.0,80,90
+191,8.188481675,Kurigram,Kharif 2,25.0,70.0,Black Berry,June,July to August,June  to September,1564,30,20.0,65,75
+335,11.08059701,Lakshmipur,Kharif 2,29.0,65.0,Sugarcane,Oct,Nov to Aug,Aug to Sep,3712,38,20.0,45,85
+82,0.4390243902,Rangamati,Rabi,21.0,62.5,Cheena,Nov,Dec to Feb,Feb to April,36,25,17.0,40,85
+204505,1.762934892,Nilphamari,Rabi,26.0,72.5,Boro,Nov,Dec to March,April,360529,40,12.0,60,85
+503,1,Barguna,Rabi,20.0,60.0,Boroi,February,No need to do,February to March,503,25,15.0,50,70
+1366,6.139824305,Moulvibazar,Kharif 1,34.5,82.5,Jack Fruit,April,No need to do,April to June,8387,47,22.0,70,95
+1542,0.2548638132,Lakshmipur,Kharif 2,30.0,70.0,Mug,Feb,March to May,May,393,35,25.0,60,80
+0,#DIV/0!,Barishal,Rabi,20.0,67.5,Ginger,Oct,Nov to March,March to April,0,25,15.0,60,75
+3540,1.377966102,Mymensingh,Rabi,22.5,60.0,Chili,Oct,Nov to March,March to April,4878,30,15.0,50,70
+5821,24.69489778,Gaibandha,Kharif 2,29.0,65.0,Sugarcane,Oct,Nov to Aug,Aug to Sep,143749,38,20.0,45,85
+3328,0.5772235577,Kushtia,Kharif 2,22.5,75.0,Rape & Mustard,Oct,Nov to Feb,Feb to April,1921,30,15.0,65,85
+535,1.304672897,Barishal,Rabi,20.0,60.0,Palmyra Palm,Sep,Oct to Nov,Nov to Feb,698,25,15.0,50,70
+1076,1.953531599,Jamalpur,Kharif 2,21.0,70.0,Palong Shak,Aug,Sep to Jan,Feb,2102,30,12.0,65,75
+48,0.2916666667,Narsingdi,Kharif 2,15.0,90.0,Lentil,Oct,Nov  to  Feb,Feb to March,14,20,10.0,85,95
+20,9.7,Dhaka,Kharif 2,30.0,75.0,Green Palmyra,April,No need to do,May,194,35,25.0,60,90
+533,1.866791745,Pirojpur,Rabi,20.5,60.0,Maize 2,Dec,Jan  to  March,April,995,27,14.0,50,70
+175,16.46285714,Rajshahi,Kharif 1,30.0,80.0,Ripe Papaya,April,No need to do,April to May,2881,35,25.0,70,90
+48842,3.022705868,Natore,Kharif 2,25.0,67.5,Garlic,Oct,Nov to Jan,Feb,147635,30,20.0,65,70
+181,4.61878453,Faridpur,Kharif 1,11.5,77.5,Mukhi Kachu,April,May to Sep,Sep to Feb,836,15,8.0,65,90
+358,11.09776536,Meherpur,Kharif 2,21.0,70.0,Puishak,Aug,Sep to Jan,Feb,3973,30,12.0,65,75
+81,0.6172839506,Thakurgaon,Rabi,27.5,85.0,Groundnut,Oct,Nov to March,March to April,50,35,20.0,80,90
+148,2.763513514,Magura,Kharif 1,22.5,75.0,Chalkumra,March,April to July,July to Oct,409,27,18.0,65,85
+308,22.18831169,Gopalganj,Kharif 2,30.0,75.0,Green Palmyra,April,No need to do,May,6834,35,25.0,60,90
+423,0.463356974,Rangamati,Kharif 2,22.5,75.0,Rape & Mustard,Oct,Nov to Feb,Feb to April,196,30,15.0,65,85
+6,0.3333333333,Bogura,Kharif 2,28.0,35.0,Arhar,Aug,Sep to Oct,Nov,2,30,26.0,20,50
+357,1.81512605,Bogura,Rabi,20.0,75.0,Lal Shak,Sep,Oct to Nov,Nov to Feb,648,25,15.0,70,80
+300,5.62,Magura,Kharif 1,34.5,82.5,Jack Fruit,April,No need to do,April to June,1686,47,22.0,70,95
+138,4.101449275,Rajshahi,Kharif 2,25.0,70.0,Black Berry,June,July to August,June  to September,566,30,20.0,65,75
+0,#DIV/0!,Naogaon,Rabi,21.0,62.5,Cheena,Nov,Dec to Feb,Feb to April,0,25,17.0,40,85
+107,29.14018692,Sunamganj,Kharif 1,27.5,80.0,Jambura,April,No need to do,May to June,3118,30,25.0,70,90
+221929,0.8668718374,Pabna,Kharif 2,26.0,72.5,Aman,June,July to  Oct,Nov to Dec,192384,40,12.0,60,85
+133,1.015037594,Feni,Kharif 1,23.0,80.0,Jhinga,April,May to June,June to Aug,135,28,18.0,70,90
+1477,0.8896411645,Gopalganj,Rabi,27.5,85.0,Groundnut,Oct,Nov to March,March to April,1314,35,20.0,80,90
+2077,1.962927299,Rangpur,Kharif 2,25.0,67.5,Garlic,Oct,Nov to Jan,Feb,4077,30,20.0,65,70
+237,3.383966245,Sherpur,Kharif 2,25.0,70.0,Black Berry,June,July to August,June  to September,802,30,20.0,65,75
+123,1.504065041,Jamalpur,Kharif 1,25.0,72.5,Kakrol,April,May to July,July to Sep,185,30,20.0,60,85
+360,3.352777778,Narail,Kharif 1,16.0,67.5,Beans,June,July to Nov,Nov to April,1207,22,10.0,60,75
+55,19.8,Faridpur,Kharif 1,30.0,80.0,Ripe Papaya,April,No need to do,April to May,1089,35,25.0,70,90
+203,9.581280788,Chuadanga,Kharif 1,29.0,67.5,Guava,April,No need to do,Throuout The year,1945,35,23.0,50,85
+468,5.241452991,Munshiganj,Kharif 2,16.0,85.0,Radish,Oct,Nov to Feb,March,2453,22,10.0,75,95
+115,2.27826087,Khagrachari,Kharif 1,32.5,65.0,Taramind,February,March to April,February to May,262,40,25.0,50,80
+864,5.047453704,Gaibandha,Kharif 2,30.0,80.0,Betelnut,July,Aug to Jan,Jan to March,4361,35,25.0,70,90
+40,3.525,Lalmonirhat,Kharif 1,20.5,72.5,Date Palm,April,No need to do,Feb to March,141,35,6.0,60,85
+453,5.516556291,Rajbari,Kharif 1,11.5,77.5,Mukhi Kachu,April,May to Sep,Sep to Feb,2499,15,8.0,65,90
+824,3.858009709,Chattogram,Kharif 2,21.0,70.0,Puishak,Aug,Sep to Jan,Feb,3179,30,12.0,65,75
+151,7.039735099,Rajshahi,Kharif 2,30.0,75.0,Green Palmyra,April,No need to do,May,1063,35,25.0,60,90
+1231,2.776604387,Nilphamari,Kharif 2,25.0,67.5,Garlic,Oct,Nov to Jan,Feb,3418,30,20.0,65,70
+257,5.412451362,Magura,Rabi,17.5,77.5,Lemon,Jan,Jan to Jan,Jan,1391,25,10.0,60,95
+6934,3.132391116,Mymensingh,Kharif 1,31.5,70.0,Mango,April,No need to do,April to June,21720,36,27.0,50,90
+52,10.05769231,Chapai Nawabganj,Kharif 1,20.5,72.5,Date Palm,April,No need to do,Feb to March,523,35,6.0,60,85
+274,2.02189781,Brahmanbaria,Kharif 2,21.0,70.0,Palong Shak,Aug,Sep to Jan,Feb,554,30,12.0,65,75
+0,#DIV/0!,Khulna,Kharif 2,28.0,35.0,Arhar,Aug,Sep to Oct,Nov,0,30,26.0,20,50
+767,6.221642764,Bagerhat,Kharif 2,17.0,75.0,Cabbage,Sep,Oct to Jan,Feb,4772,24,10.0,60,90
+1543,1.458846403,Manikganj,Kharif 2,25.0,67.5,Garlic,Oct,Nov to Jan,Feb,2251,30,20.0,65,70
+71,1.23943662,Thakurgaon,Kharif 1,25.0,72.5,Kakrol,April,May to July,July to Sep,88,30,20.0,60,85
+2274,0.672823219,Kurigram,Rabi,27.5,85.0,Groundnut,Oct,Nov to March,March to April,1530,35,20.0,80,90
+40,4.525,Sherpur,Kharif 1,20.5,72.5,Date Palm,April,No need to do,Feb to March,181,35,6.0,60,85
+187,2.122994652,Netrokona,Rabi,20.0,75.0,Lal Shak,Sep,Oct to Nov,Nov to Feb,397,25,15.0,70,80
+80,3.0375,Munshiganj,Kharif 2,30.0,80.0,Betelnut,July,Aug to Jan,Jan to March,243,35,25.0,70,90
+62,28.43548387,Joypurhat,Kharif 1,25.0,70.0,Green Papaya,June,June to August,August to September,1763,30,20.0,60,80
+218,6.119266055,Narail,Kharif 1,25.0,70.0,Amra,June,June to August,August to September,1334,30,20.0,60,80
+170,13.70588235,Barishal,Kharif 1,30.0,80.0,Ripe Papaya,April,No need to do,April to May,2330,35,25.0,70,90
+185546,1.593098207,Satkhira,Rabi,26.0,72.5,Boro,Nov,Dec to March,April,295593,40,12.0,60,85
+1823,3.019199122,Cumilla,Kharif 1,16.0,67.5,Beans,June,July to Nov,Nov to April,5504,22,10.0,60,75
+2779,3.338611011,Jashore,Kharif 1,16.0,67.5,Beans,June,July to Nov,Nov to April,9278,22,10.0,60,75
+4,7,Narayanganj,Kharif 1,24.0,70.0,Safeda,April,No need to do,Jan to March,28,38,10.0,60,80
+13,5.153846154,Tangail,Kharif 2,30.0,80.0,Jamrul,June,July to August,June  to September,67,35,25.0,70,90
+114,12.66666667,Jhenaidah,Kharif 1,27.5,80.0,Jambura,April,No need to do,May to June,1444,30,25.0,70,90
+32,2.4375,Satkhira,Rabi,20.0,80.0,Laushak,Sep,Oct to Nov,Nov to Feb,78,25,15.0,70,90
+0,#DIV/0!,Gazipur,Rabi,21.0,62.5,Cheena,Nov,Dec to Feb,Feb to April,0,25,17.0,40,85
+64104,1.880912268,Shariatpur,Rabi,26.0,72.5,Boro,Nov,Dec to March,April,120574,40,12.0,60,85
+742,4.551212938,Rajshahi,Kharif 1,11.5,77.5,Mukhi Kachu,April,May to Sep,Sep to Feb,3377,15,8.0,65,90
+99,2.292929293,Rangamati,Kharif 1,27.5,90.0,Kolmi Shak,March,April to Aug,Sep to Oct,227,35,20.0,80,100
+728,5.302197802,Rajshahi,Rabi,25.0,80.0,Danta,March,April to Aug,Sep,3860,32,18.0,75,85
+370,5.421621622,Habiganj,Kharif 2,19.0,77.5,Cauliflower,Sep,Nov to Jan,Feb,2006,30,8.0,70,85
+218,0.3899082569,Lalmonirhat,Kharif 2,27.5,35.0,Mashkalai,Aug,Sep to Oct,Nov,85,35,20.0,25,45
+32,0.375,Gazipur,Rabi,27.5,85.0,Groundnut,Oct,Nov to March,March to April,12,35,20.0,80,90
+207744,1.108450786,Satkhira,Kharif 2,26.0,72.5,Aman,June,July to  Oct,Nov to Dec,230274,40,12.0,60,85
+24,0.25,Chuadanga,Kharif 2,28.0,35.0,Arhar,Aug,Sep to Oct,Nov,6,30,26.0,20,50
+322,3.161490683,Sylhet,Kharif 1,22.5,75.0,Chalkumra,March,April to July,July to Oct,1018,27,18.0,65,85
+238,2.571428571,Mymensingh,Kharif 1,27.5,90.0,Kolmi Shak,March,April to Aug,Sep to Oct,612,35,20.0,80,100
+50,6.18,Moulvibazar,Kharif 2,29.0,65.0,Sugarcane,Oct,Nov to Aug,Aug to Sep,309,38,20.0,45,85
+1026,1.263157895,Jashore,Kharif 2,30.0,80.0,Betelnut,July,Aug to Jan,Jan to March,1296,35,25.0,70,90
+192,3.197916667,Gopalganj,Rabi,25.5,87.5,Karala,Feb,March to July,Aug to Sep,614,27,24.0,85,90
+483,1.507246377,Faridpur,Kharif 1,20.0,80.0,Lady’s Finger,April,May to June,June to Sep,728,30,10.0,75,85
+1788,6.016778523,Chuadanga,Rabi,20.0,60.0,Pumpkin,Sep,Oct to Nov,Nov to Feb,10758,25,15.0,50,70
+459,2.488017429,Feni,Rabi,20.0,60.0,Pumpkin,Sep,Oct to Nov,Nov to Feb,1142,25,15.0,50,70
+45,4.133333333,Dinajpur,Rabi,20.0,60.0,Palmyra Palm,Sep,Oct to Nov,Nov to Feb,186,25,15.0,50,70
+894,6.109619687,Cumilla,Kharif 2,29.0,65.0,Sugarcane,Oct,Nov to Aug,Aug to Sep,5462,38,20.0,45,85
+284,1.580985915,Manikganj,Kharif 2,30.0,80.0,Betelnut,July,Aug to Jan,Jan to March,449,35,25.0,70,90
+253,5.4743083,Magura,Rabi,20.0,60.0,Pumpkin,Sep,Oct to Nov,Nov to Feb,1385,25,15.0,50,70
+580,0.4706896552,Satkhira,Kharif 1,32.5,65.0,Taramind,February,March to April,February to May,273,40,25.0,50,80
+193,3.523316062,Faridpur,Kharif 2,25.0,70.0,Black Berry,June,July to August,June  to September,680,30,20.0,65,75
+1062,2.04519774,Khagrachari,Rabi,20.5,60.0,Maize 2,Dec,Jan  to  March,April,2172,27,14.0,50,70
+625,1.9168,Khagrachari,Rabi,25.5,87.5,Karala,Feb,March to July,Aug to Sep,1198,27,24.0,85,90
+518,0.9691119691,Tangail,Kharif 1,25.0,70.0,Amra,June,June to August,August to September,502,30,20.0,60,80
+63,1.666666667,Natore,Rabi,20.0,67.5,Ginger,Oct,Nov to March,March to April,105,25,15.0,60,75
+118,2.389830508,Netrokona,Kharif 2,21.0,70.0,Palong Shak,Aug,Sep to Jan,Feb,282,30,12.0,65,75
+3,2,Chattogram,Kharif 1,21.5,82.5,Dalim,April,No need to do,Throuout The year,6,38,5.0,70,95
+35,4.028571429,Gopalganj,Kharif 1,32.5,65.0,Taramind,February,March to April,February to May,141,40,25.0,50,80
+205,6.936585366,Brahmanbaria,Rabi,17.5,77.5,Lemon,Jan,Jan to Jan,Jan,1422,25,10.0,60,95
+227,5.797356828,Narail,Kharif 1,27.5,80.0,Jambura,April,No need to do,May to June,1316,30,25.0,70,90
+335,2.907462687,Natore,Kharif 1,22.5,75.0,Chalkumra,March,April to July,July to Oct,974,27,18.0,65,85
+17,3.411764706,Manikganj,Kharif 1,32.5,65.0,Taramind,February,March to April,February to May,58,40,25.0,50,80
+900,3.328888889,Natore,Rabi,20.0,60.0,Boroi,December,No need to do,February to March,2996,25,15.0,50,70
+0,#DIV/0!,Shariatpur,Kharif 2,23.5,61.0,Oal Kachu,Sep,Oct to Dec,Dec to Feb,0,32,15.0,52,70
+232,3.642241379,Bagerhat,Kharif 1,11.5,77.5,Mukhi Kachu,April,May to Sep,Sep to Feb,845,15,8.0,65,90
+669,8.476831091,Meherpur,Kharif 1,16.0,67.5,Beans,June,July to Nov,Nov to April,5671,22,10.0,60,75
+804,3.843283582,Natore,Kharif 2,16.0,85.0,Radish,Oct,Nov to Feb,March,3090,22,10.0,75,95
+0,#DIV/0!,Netrokona,Kharif 1,27.5,85.0,Malta,June,June to August,August to September,0,35,20.0,80,90
+416,1.514423077,Barishal,Rabi,25.5,87.5,Karala,Feb,March to July,Aug to Sep,630,27,24.0,85,90
+547,4.096892139,Khagrachari,Kharif 2,17.0,75.0,Cabbage,Sep,Oct to Jan,Feb,2241,24,10.0,60,90
+234,14.70512821,Rangpur,Kharif 1,25.0,70.0,Green Papaya,June,June to August,August to September,3441,30,20.0,60,80
+1319,0.4078847612,Faridpur,Kharif 2,22.5,82.5,Motor,Oct,Nov to March,March to April,538,30,15.0,75,90
+641,2.845553822,Cumilla,Rabi,25.0,80.0,Danta,March,April to Aug,Sep,1824,32,18.0,75,85
+17,0.5294117647,Jashore,Rabi,27.5,85.0,Groundnut,Oct,Nov to March,March to April,9,35,20.0,80,90
+482,2.935684647,Munshiganj,Rabi,20.0,67.5,Onion,Oct,Nov to March,March to April,1415,25,15.0,65,70
+8914,4.130020193,Manikganj,Kharif 1,30.0,75.0,Jute,March,April to Aug,Sep,36815,40,20.0,70,80
+1000,1.652,Magura,Kharif 1,20.5,72.5,Date Palm,April,No need to do,Feb to March,1652,35,6.0,60,85
+583,1.231560892,Noakhali,Rabi,20.0,75.0,Lal Shak,Sep,Oct to Nov,Nov to Feb,718,25,15.0,70,80
+884,9.90158371,Meherpur,Kharif 2,19.0,77.5,Cauliflower,Sep,Nov to Jan,Feb,8753,30,8.0,70,85
+48,13.25,Netrokona,Kharif 2,29.0,65.0,Sugarcane,Oct,Nov to Aug,Aug to Sep,636,38,20.0,45,85
+37,1.108108108,Narail,Kharif 1,27.5,90.0,Kolmi Shak,March,April to Aug,Sep to Oct,41,35,20.0,80,100
+5,0.8,Moulvibazar,Kharif 1,21.5,82.5,Dalim,April,No need to do,Throuout The year,4,38,5.0,70,95
+3726,0.1307031669,Bandarban,Rabi,17.5,77.5,Lemon,Jan,Jan to Jan,Jan,487,25,10.0,60,95
+3,2.333333333,Lakshmipur,Kharif 2,18.0,66.5,Carrot,Oct,Nov to Feb,March,7,21,15.0,47,86
+166,2.903614458,Feni,Kharif 1,27.0,72.5,Maize 1,March,April to May,June to July,482,34,20.0,60,85
+130,3.753846154,Naogaon,Kharif 2,25.0,70.0,Black Berry,June,July to August,June  to September,488,30,20.0,65,75
+632,0.2515822785,Gazipur,Kharif 2,27.5,35.0,Mashkalai,Aug,Sep to Oct,Nov,159,35,20.0,25,45
+2048,0.4018554688,Natore,Kharif 2,22.5,82.5,Motor,Oct,Nov to March,March to April,823,30,15.0,75,90
+556,10.38489209,Chattogram,Kharif 1,27.5,80.0,Jambura,April,No need to do,May to June,5774,30,25.0,70,90
+5426,7.908956874,Khagrachari,Kharif 1,34.5,82.5,Jack Fruit,April,No need to do,April to June,42914,47,22.0,70,95
+1026,2.248538012,Lalmonirhat,Kharif 2,30.0,80.0,Betelnut,July,Aug to Jan,Jan to March,2307,35,25.0,70,90
+601,3.271214642,Manikganj,Rabi,25.0,80.0,Banana,Jan,Jan to Jan,Jan,1966,35,15.0,75,85
+36,1.388888889,Brahmanbaria,Kharif 2,26.5,75.0,Pineapple,Sep,Sep to May,June to Aug,50,35,18.0,70,80
+1204,5.664451827,Kishoreganj,Kharif 2,16.0,85.0,Radish,Oct,Nov to Feb,March,6820,22,10.0,75,95
+2670,2.178651685,Madaripur,Kharif 1,20.5,72.5,Date Palm,April,No need to do,Feb to March,5817,35,6.0,60,85
+0,#DIV/0!,Habiganj,Kharif 2,17.5,67.5,Tobacco,Oct,Nov to Feb,Feb to April,0,20,15.0,50,85
+373,3.222520107,Panchagar,Kharif 2,25.0,72.5,Barbati,Sep,Oct to Dec,December to April,1202,30,20.0,60,85
+2708,8.692762186,Meherpur,Kharif 1,11.5,77.5,Mukhi Kachu,April,May to Sep,Sep to Feb,23540,15,8.0,65,90
+566,0.5318021201,Narsingdi,Rabi,27.5,85.0,Groundnut,Oct,Nov to March,March to April,301,35,20.0,80,90
+101,0.3465346535,Pirojpur,Kharif 2,22.5,75.0,Rape & Mustard,Oct,Nov to Feb,Feb to April,35,30,15.0,65,85
+151,0.5298013245,Rangamati,Kharif 2,28.0,35.0,Arhar,Aug,Sep to Oct,Nov,80,30,26.0,20,50
+666,3.845345345,Faridpur,Kharif 2,19.0,77.5,Cauliflower,Sep,Nov to Jan,Feb,2561,30,8.0,70,85
+667,7.625187406,Natore,Kharif 2,17.0,75.0,Cabbage,Sep,Oct to Jan,Feb,5086,24,10.0,60,90
+202388,0.9527689389,Sherpur,Kharif 2,26.0,72.5,Aman,June,July to  Oct,Nov to Dec,192829,40,12.0,60,85
+504,4.607142857,Joypurhat,Kharif 2,16.0,85.0,Radish,Oct,Nov to Feb,March,2322,22,10.0,75,95
+0,#DIV/0!,Lakshmipur,Kharif 1,27.0,72.5,Maize 1,March,April to May,June to July,0,34,20.0,60,85
+7590,0.4670619236,Cumilla,Kharif 2,22.5,75.0,Rape & Mustard,Oct,Nov to Feb,Feb to April,3545,30,15.0,65,85
+423,1.628841608,Barishal,Kharif 1,20.0,80.0,Lady’s Finger,April,May to June,June to Sep,689,30,10.0,75,85
+422,4.398104265,Noakhali,Kharif 2,30.0,75.0,Green Palmyra,April,No need to do,May,1856,35,25.0,60,90
+154,1.077922078,Narayanganj,Kharif 2,25.0,72.5,Barbati,Sep,Oct to Dec,December to April,166,30,20.0,60,85
+89,1.853932584,Chuadanga,Rabi,17.5,77.5,Lemon,Jan,Jan to Jan,Jan,165,25,10.0,60,95
+4,1.75,Lalmonirhat,Kharif 2,30.0,80.0,Jamrul,June,July to August,June  to September,7,35,25.0,70,90
+171,4.637426901,Joypurhat,Kharif 1,22.5,75.0,Chalkumra,March,April to July,July to Oct,793,27,18.0,65,85
+269,5.289962825,Moulvibazar,Rabi,25.0,80.0,Banana,Jan,Jan to Jan,Jan,1423,35,15.0,75,85
+665,3.076691729,Bandarban,Kharif 2,16.0,85.0,Radish,Oct,Nov to Feb,March,2046,22,10.0,75,95
+1487,3.347679892,Sylhet,Kharif 1,31.5,70.0,Mango,April,No need to do,April to June,4978,36,27.0,50,90
+295677,1.479824268,Habiganj,Rabi,26.0,72.5,Boro,Nov,Dec to March,April,437550,40,12.0,60,85
+1966,4.650559512,Jashore,Kharif 2,19.0,77.5,Cauliflower,Sep,Nov to Jan,Feb,9143,30,8.0,70,85
+120,1.116666667,CoxsBazar,Rabi,20.0,80.0,Laushak,Sep,Oct to Nov,Nov to Feb,134,25,15.0,70,90
+667,2.026986507,Cumilla,Rabi,20.0,80.0,Laushak,Sep,Oct to Nov,Nov to Feb,1352,25,15.0,70,90
+53757,1.190003162,Natore,Rabi,17.75,55.0,Wheat,Dec,Jan  to  March,April,63971,20,15.5,50,60
+908,0.3755506608,Jashore,Kharif 2,27.5,35.0,Mashkalai,Aug,Sep to Oct,Nov,341,35,20.0,25,45
+18702,0.9652443589,Dhaka,Kharif 2,26.0,72.5,Aman,June,July to  Oct,Nov to Dec,18052,40,12.0,60,85
+444857,0.9779996718,Chattogram,Kharif 2,26.0,72.5,Aman,June,July to  Oct,Nov to Dec,435070,40,12.0,60,85
+646,3.417956656,Rajshahi,Kharif 1,20.0,80.0,Lady’s Finger,April,May to June,June to Sep,2208,30,10.0,75,85
+346,3.315028902,Chapai Nawabganj,Rabi,20.0,60.0,Pumpkin,Sep,Oct to Nov,Nov to Feb,1147,25,15.0,50,70
+823,2.430133657,Barishal,Kharif 1,20.5,72.5,Date Palm,April,No need to do,Feb to March,2000,35,6.0,60,85
+300,6.85,Cumilla,Kharif 1,25.0,72.5,Kakrol,April,May to July,July to Sep,2055,30,20.0,60,85
+18,3,Faridpur,Kharif 1,21.5,82.5,Dalim,April,No need to do,Throuout The year,54,38,5.0,70,95
+64,10.765625,Gopalganj,Kharif 1,27.5,80.0,Jambura,April,No need to do,May to June,689,30,25.0,70,90
+1198,3.569282137,Noakhali,Kharif 2,16.0,85.0,Radish,Oct,Nov to Feb,March,4276,22,10.0,75,95
+90,36.31111111,Bagerhat,Kharif 2,30.0,75.0,Green Palmyra,April,No need to do,May,3268,35,25.0,60,90
+26,0.2692307692,Chapai Nawabganj,Kharif 2,30.0,70.0,Mug,Feb,March to May,May,7,35,25.0,60,80
+165,3.709090909,Narail,Kharif 2,30.0,75.0,Green Palmyra,April,No need to do,May,612,35,25.0,60,90
+2204,8.319419238,Tangail,Kharif 1,31.5,70.0,Mango,April,No need to do,April to June,18336,36,27.0,50,90
+989,0.8695652174,Bandarban,Kharif 1,27.5,80.0,Jambura,April,No need to do,May to June,860,30,25.0,70,90
+127,2.031496063,Brahmanbaria,Kharif 1,27.5,85.0,Malta,June,June to August,August to September,258,35,20.0,80,90
+155,7.587096774,Bhola,Kharif 1,29.0,67.5,Guava,April,No need to do,Throuout The year,1176,35,23.0,50,85
+138015,1.312603702,Moulvibazar,Rabi,26.0,72.5,Boro,Nov,Dec to March,April,181159,40,12.0,60,85
+0,#DIV/0!,Jashore,Kharif 2,14.5,82.5,Shalgom,Sep,Oct to Nov,Nov to Feb,0,24,5.0,70,95
+587,3.119250426,Rangpur,Kharif 1,22.5,75.0,Chalkumra,March,April to July,July to Oct,1831,27,18.0,65,85
+89,1.730337079,Shariatpur,Kharif 2,25.0,72.5,Barbati,Sep,Oct to Dec,December to April,154,30,20.0,60,85
+268,2.320895522,Chandpur,Kharif 2,21.0,70.0,Puishak,Aug,Sep to Jan,Feb,622,30,12.0,65,75
+289,23.11418685,Nilphamari,Kharif 2,29.0,65.0,Sugarcane,Oct,Nov to Aug,Aug to Sep,6680,38,20.0,45,85
+841,20.23662307,Jashore,Kharif 1,25.0,70.0,Green Papaya,June,June to August,August to September,17019,30,20.0,60,80
+82,0.3780487805,Sherpur,Rabi,31.0,45.0,Sesame,Nov,Dec to Jan,Feb,31,35,27.0,40,50
+137,1.277372263,Narsingdi,Kharif 2,21.0,70.0,Palong Shak,Aug,Sep to Jan,Feb,175,30,12.0,65,75
+32,0.25,Kishoreganj,Rabi,31.0,45.0,Sesame,Nov,Dec to Jan,Feb,8,35,27.0,40,50
+51,3.117647059,Narayanganj,Kharif 2,23.5,61.0,Oal Kachu,Sep,Oct to Dec,Dec to Feb,159,32,15.0,52,70
+0,#DIV/0!,Munshiganj,Kharif 2,26.5,75.0,Pineapple,Sep,Sep to May,June to Aug,0,35,18.0,70,80
+940,3.836170213,Kushtia,Kharif 1,20.5,72.5,Date Palm,April,No need to do,Feb to March,3606,35,6.0,60,85
+387,3.560723514,Narayanganj,Kharif 2,16.0,85.0,Radish,Oct,Nov to Feb,March,1378,22,10.0,75,95
+6656,0.603515625,Cumilla,Rabi,22.5,60.0,Chili,Oct,Nov to March,March to April,4017,30,15.0,50,70
+38,0.1578947368,Noakhali,Kharif 2,22.5,75.0,Rape & Mustard,Oct,Nov to Feb,Feb to April,6,30,15.0,65,85
+768,6.764322917,Kishoreganj,Rabi,20.0,60.0,Pumpkin,Sep,Oct to Nov,Nov to Feb,5195,25,15.0,50,70
+251,2.358565737,Kishoreganj,Rabi,25.0,80.0,Danta Shak,March,April to Aug,Sep,592,32,18.0,75,85
+0,#DIV/0!,Manikganj,Rabi,21.0,62.5,Cheena,Nov,Dec to Feb,Feb to April,0,25,17.0,40,85
+129,3.620155039,Netrokona,Kharif 1,11.5,77.5,Mukhi Kachu,April,May to Sep,Sep to Feb,467,15,8.0,65,90
+94,201.7978723,Sirajganj,Kharif 1,34.5,82.5,Jack Fruit,April,No need to do,April to June,18969,47,22.0,70,95
+530,1.279245283,Lakshmipur,Rabi,20.0,75.0,Lal Shak,Sep,Oct to Nov,Nov to Feb,678,25,15.0,70,80
+25,2.2,Kushtia,Rabi,20.0,80.0,Laushak,Sep,Oct to Nov,Nov to Feb,55,25,15.0,70,90
+80,3.6875,Narsingdi,Kharif 2,30.0,80.0,Betelnut,July,Aug to Jan,Jan to March,295,35,25.0,70,90
+560,0.65,Lakshmipur,Rabi,17.5,77.5,Lemon,Jan,Jan to Jan,Jan,364,25,10.0,60,95
+296,3.084459459,Tangail,Kharif 2,27.5,72.5,Patal,Aug,Sep to Jan,Jan to March,913,35,20.0,60,85
+497,1.348088531,Tangail,Kharif 1,25.0,70.0,Wood Apple,May,June to August,August to September,670,30,20.0,60,80
+350,3.965714286,Sirajganj,Rabi,20.0,60.0,Boroi,April,No need to do,February to March,1388,25,15.0,50,70
+141,2.255319149,Bogura,Rabi,25.0,80.0,Danta Shak,March,April to Aug,Sep,318,32,18.0,75,85
+246,2.756097561,Satkhira,Kharif 2,26.5,75.0,Cucumber,Sep,Nov to March,March to jun,678,35,18.0,60,90
+10,0.3,Kishoreganj,Kharif 2,22.5,82.5,Motor,Oct,Nov to March,March to April,3,30,15.0,75,90
+385,1.096103896,CoxsBazar,Kharif 2,17.5,67.5,Tobacco,Oct,Nov to Feb,Feb to April,422,20,15.0,50,85
+649,0.562403698,Mymensingh,Rabi,27.5,85.0,Groundnut,Oct,Nov to March,March to April,365,35,20.0,80,90
+165,21.6,Lakshmipur,Kharif 1,30.0,80.0,Ripe Papaya,April,No need to do,April to May,3564,35,25.0,70,90
+4,2.5,Netrokona,Kharif 2,30.0,80.0,Jamrul,June,July to August,June  to September,10,35,25.0,70,90
+361,2.831024931,Kishoreganj,Kharif 1,20.0,80.0,Lady’s Finger,April,May to June,June to Sep,1022,30,10.0,75,85
+250,3.832,Magura,Rabi,25.0,80.0,Danta,March,April to Aug,Sep,958,32,18.0,75,85
+0,#DIV/0!,Shariatpur,Kharif 1,27.0,72.5,Maize 1,March,April to May,June to July,0,34,20.0,60,85
+463,2.103671706,Sirajganj,Rabi,20.0,75.0,Lal Shak,Sep,Oct to Nov,Nov to Feb,974,25,15.0,70,80
+776,0.3505154639,Narsingdi,Rabi,31.0,45.0,Sesame,Nov,Dec to Jan,Feb,272,35,27.0,40,50
+140,1.607142857,Sylhet,Kharif 2,21.0,70.0,Palong Shak,Aug,Sep to Jan,Feb,225,30,12.0,65,75
+125,2.92,Jhenaidah,Kharif 2,14.5,82.5,Shalgom,Sep,Oct to Nov,Nov to Feb,365,24,5.0,70,95
+2295,0.388671024,Magura,Rabi,31.0,45.0,Sesame,Nov,Dec to Jan,Feb,892,35,27.0,40,50
+143,1.881118881,CoxsBazar,Kharif 1,25.0,70.0,Wood Apple,May,June to August,August to September,269,30,20.0,60,80
+4,0.5,Munshiganj,Kharif 2,17.5,67.5,Tobacco,Oct,Nov to Feb,Feb to April,2,20,15.0,50,85
+0,#DIV/0!,CoxsBazar,Kharif 2,22.5,75.0,Rape & Mustard,Oct,Nov to Feb,Feb to April,0,30,15.0,65,85
+0,#DIV/0!,Naogaon,Kharif 2,26.5,75.0,Pineapple,Sep,Sep to May,June to Aug,0,35,18.0,70,80
+755,6.901986755,Sirajganj,Kharif 2,17.0,75.0,Cabbage,Sep,Oct to Jan,Feb,5211,24,10.0,60,90
+289,1.584775087,Noakhali,Rabi,25.0,80.0,Danta,March,April to Aug,Sep,458,32,18.0,75,85
+55,0.9454545455,Narsingdi,Kharif 1,27.5,85.0,Malta,June,June to August,August to September,52,35,20.0,80,90
+1391,0.4378145219,Jhallokati,Rabi,22.5,60.0,Chili,Oct,Nov to March,March to April,609,30,15.0,50,70
+569,4.725834798,Rajbari,Rabi,20.0,60.0,Pumpkin,Sep,Oct to Nov,Nov to Feb,2689,25,15.0,50,70
+1,2,Jhenaidah,Kharif 2,26.5,75.0,Pineapple,Sep,Sep to May,June to Aug,2,35,18.0,70,80
+100,1.68,Munshiganj,Kharif 2,25.0,72.5,Barbati,Sep,Oct to Dec,December to April,168,30,20.0,60,85
+1912,3.472280335,Narsingdi,Rabi,22.5,60.0,Chili,Oct,Nov to March,March to April,6639,30,15.0,50,70
+161,5.590062112,Rajshahi,Kharif 2,30.0,80.0,Betelnut,July,Aug to Jan,Jan to March,900,35,25.0,70,90
+1416,3.037429379,Dhaka,Kharif 1,16.0,67.5,Beans,June,July to Nov,Nov to April,4301,22,10.0,60,75
+44,8.204545455,Madaripur,Kharif 1,24.0,70.0,Safeda,April,No need to do,Jan to March,361,38,10.0,60,80
+4293,0.4346610762,Barishal,Kharif 2,15.0,90.0,Lentil,Oct,Nov  to  Feb,Feb to March,1866,20,10.0,85,95
+598,1.287625418,Khulna,Rabi,25.0,80.0,Danta Shak,March,April to Aug,Sep,770,32,18.0,75,85
+6555,4.251563692,Shariatpur,Rabi,20.0,67.5,Onion,Oct,Nov to March,March to April,27869,25,15.0,65,70
+204,1.681372549,Pirojpur,Kharif 1,25.0,72.5,Kakrol,April,May to July,July to Sep,343,30,20.0,60,85
+211,1.184834123,Lakshmipur,Rabi,27.5,85.0,Groundnut,Oct,Nov to March,March to April,250,35,20.0,80,90
+339,2.439528024,Nilphamari,Kharif 2,21.0,70.0,Palong Shak,Aug,Sep to Jan,Feb,827,30,12.0,65,75
+17,0.4705882353,Joypurhat,Kharif 2,22.5,82.5,Motor,Oct,Nov to March,March to April,8,30,15.0,75,90
+28,2.25,Noakhali,Kharif 1,11.5,77.5,Mukhi Kachu,April,May to Sep,Sep to Feb,63,15,8.0,65,90
+62,5.548387097,Naogaon,Kharif 1,25.0,70.0,Amra,June,June to August,August to September,344,30,20.0,60,80
+0,#DIV/0!,Shariatpur,Kharif 2,28.0,35.0,Arhar,Aug,Sep to Oct,Nov,0,30,26.0,20,50
+0,#DIV/0!,Narail,Rabi,21.0,62.5,Cheena,Nov,Dec to Feb,Feb to April,0,25,17.0,40,85
+393,5.419847328,Dhaka,Rabi,20.5,80.0,Sweet Potato,Nov,Dec to March,April,2130,24,17.0,70,90
+463,2.220302376,Khulna,Kharif 2,14.5,82.5,Shalgom,Sep,Oct to Nov,Nov to Feb,1028,24,5.0,70,95
+264,1.768939394,Chandpur,Kharif 2,21.0,70.0,Palong Shak,Aug,Sep to Jan,Feb,467,30,12.0,65,75
+231,4.32034632,Narail,Kharif 2,27.5,72.5,Patal,Aug,Sep to Jan,Jan to March,998,35,20.0,60,85
+765,0.3477124183,Jamalpur,Kharif 2,15.0,90.0,Lentil,Oct,Nov  to  Feb,Feb to March,266,20,10.0,85,95
+1276,3.340909091,Bogura,Kharif 1,16.0,67.5,Beans,June,July to Nov,Nov to April,4263,22,10.0,60,75
+464,4.588362069,Gopalganj,Kharif 1,25.0,70.0,Green Papaya,June,June to August,August to September,2129,30,20.0,60,80
+447,1.418344519,Jhallokati,Rabi,20.0,60.0,Boroi,April,No need to do,February to March,634,25,15.0,50,70
+145,1.875862069,Feni,Kharif 2,21.0,70.0,Puishak,Aug,Sep to Jan,Feb,272,30,12.0,65,75
+2684,2.43219076,Gaibandha,Rabi,20.0,67.5,Onion,Oct,Nov to March,March to April,6528,25,15.0,65,70
+0,#DIV/0!,Kishoreganj,Kharif 1,27.0,72.5,Maize 1,March,April to May,June to July,0,34,20.0,60,85
+109,4.018348624,Habiganj,Kharif 2,21.0,70.0,Puishak,Aug,Sep to Jan,Feb,438,30,12.0,65,75
+3456,17.20688657,Chapai Nawabganj,Kharif 2,29.0,65.0,Sugarcane,Oct,Nov to Aug,Aug to Sep,59467,38,20.0,45,85
+17404,0.838830154,Lalmonirhat,Kharif 2,17.5,67.5,Tobacco,Oct,Nov to Feb,Feb to April,14599,20,15.0,50,85
+28,0.5357142857,Jhallokati,Kharif 2,22.5,82.5,Motor,Oct,Nov to March,March to April,15,30,15.0,75,90
+7,0.2857142857,Dhaka,Kharif 2,27.5,35.0,Gram,Aug,Sep to Oct,Nov,2,35,20.0,25,45
+0,#DIV/0!,Madaripur,Kharif 2,17.5,67.5,Tobacco,Oct,Nov to Feb,Feb to April,0,20,15.0,50,85
+296,4.635135135,Kushtia,Rabi,20.5,80.0,Sweet Potato,Nov,Dec to March,April,1372,24,17.0,70,90
+157,7.853503185,Kishoreganj,Kharif 1,29.0,67.5,Guava,April,No need to do,Throuout The year,1233,35,23.0,50,85
+343,2.556851312,Jhallokati,Kharif 1,22.5,75.0,Chalkumra,March,April to July,July to Oct,877,27,18.0,65,85
+102,7.31372549,Shariatpur,Kharif 2,19.0,77.5,Cauliflower,Sep,Nov to Jan,Feb,746,30,8.0,70,85
+534,14.4906367,Rangamati,Kharif 2,29.0,65.0,Sugarcane,Oct,Nov to Aug,Aug to Sep,7738,38,20.0,45,85
+228,6.495614035,Panchagar,Kharif 1,29.0,67.5,Guava,April,No need to do,Throuout The year,1481,35,23.0,50,85
+8,0.375,Bogura,Kharif 2,27.5,35.0,Gram,Aug,Sep to Oct,Nov,3,35,20.0,25,45
+134,6.111940299,Bandarban,Kharif 1,25.0,70.0,Green Coconut,May,June to August,August to September,819,30,20.0,60,80
+53557,5.719999253,Jhenaidah,Kharif 1,30.0,75.0,Jute,March,April to Aug,Sep,306346,40,20.0,70,80
+1768,9.680429864,Jhenaidah,Kharif 1,31.5,70.0,Mango,April,No need to do,April to June,17115,36,27.0,50,90
+0,#DIV/0!,Shariatpur,Rabi,21.0,62.5,Cheena,Nov,Dec to Feb,Feb to April,0,25,17.0,40,85
+190,1.742105263,Jamalpur,Kharif 1,27.5,90.0,Kolmi Shak,March,April to Aug,Sep to Oct,331,35,20.0,80,100
+777,1.812097812,Gazipur,Kharif 2,30.0,80.0,Betelnut,July,Aug to Jan,Jan to March,1408,35,25.0,70,90
+8,19.375,Sirajganj,Kharif 1,32.5,65.0,Taramind,February,March to April,February to May,155,40,25.0,50,80
+280,8.857142857,Magura,Kharif 1,29.0,67.5,Guava,April,No need to do,Throuout The year,2480,35,23.0,50,85
+9664,1.432326159,Gopalganj,Kharif 1,26.0,72.5,Aus,March,April to july,Aug,13842,40,12.0,60,85
+167,4.54491018,Lakshmipur,Kharif 2,17.0,75.0,Cabbage,Sep,Oct to Jan,Feb,759,24,10.0,60,90
+5,1,Lakshmipur,Rabi,20.0,67.5,Ginger,Oct,Nov to March,March to April,5,25,15.0,60,75
+817,3.335373317,Naogaon,Kharif 1,16.0,67.5,Beans,June,July to Nov,Nov to April,2725,22,10.0,60,75
+392,5.918367347,Jashore,Kharif 1,27.5,80.0,Jambura,April,No need to do,May to June,2320,30,25.0,70,90
+8165,5.8,Lalmonirhat,Kharif 1,30.0,75.0,Jute,March,April to Aug,Sep,47357,40,20.0,70,80
+56,4.142857143,Narsingdi,Kharif 1,11.5,77.5,Mukhi Kachu,April,May to Sep,Sep to Feb,232,15,8.0,65,90
+5,0.2,Kishoreganj,Kharif 2,27.5,35.0,Gram,Aug,Sep to Oct,Nov,1,35,20.0,25,45
+473,26.82663848,Faridpur,Kharif 1,25.0,70.0,Green Papaya,June,June to August,August to September,12689,30,20.0,60,80
+119,2.134453782,Chapai Nawabganj,Kharif 1,25.0,70.0,Wood Apple,May,June to August,August to September,254,30,20.0,60,80
+0,#DIV/0!,Jhenaidah,Rabi,21.0,62.5,Cheena,Nov,Dec to Feb,Feb to April,0,25,17.0,40,85
+756,4.085978836,Jashore,Kharif 2,26.5,75.0,Cucumber,Sep,Nov to March,March to jun,3089,35,18.0,60,90
+324,1.561728395,Jamalpur,Kharif 1,25.0,70.0,Wood Apple,May,June to August,August to September,506,30,20.0,60,80
+499,2.174348697,Chuadanga,Kharif 1,23.0,80.0,Jhinga,April,May to June,June to Aug,1085,28,18.0,70,90
+87423,1.223591046,Jhenaidah,Kharif 1,26.0,72.5,Aus,March,April to july,Aug,106970,40,12.0,60,85
+956,1.05334728,Chuadanga,Rabi,22.5,60.0,Chili,Oct,Nov to March,March to April,1007,30,15.0,50,70
+1,4,Kurigram,Kharif 2,30.0,75.0,Green Palmyra,April,No need to do,May,4,35,25.0,60,90
+0,#DIV/0!,Barguna,Kharif 2,27.5,72.5,Patal,Aug,Sep to Jan,Jan to March,0,35,20.0,60,85
+7,10.71428571,Kishoreganj,Rabi,20.0,60.0,Palmyra Palm,Sep,Oct to Nov,Nov to Feb,75,25,15.0,50,70
+0,#DIV/0!,Madaripur,Rabi,21.0,62.5,Cheena,Nov,Dec to Feb,Feb to April,0,25,17.0,40,85
+150,3.706666667,Thakurgaon,Rabi,20.0,60.0,Boroi,December,No need to do,February to March,556,25,15.0,50,70
+150,3.773333333,Barguna,Kharif 1,30.0,80.0,Ripe Papaya,April,No need to do,April to May,566,35,25.0,70,90
+33,1.727272727,Natore,Kharif 1,27.5,90.0,Kolmi Shak,March,April to Aug,Sep to Oct,57,35,20.0,80,100
+300,5.85,Rajbari,Kharif 1,29.0,67.5,Guava,April,No need to do,Throuout The year,1755,35,23.0,50,85
+7,5.857142857,Gazipur,Kharif 1,24.0,70.0,Safeda,April,No need to do,Jan to March,41,38,10.0,60,80
+0,#DIV/0!,Dhaka,Kharif 1,27.5,85.0,Malta,June,June to August,August to September,0,35,20.0,80,90
+679,2.459499264,Narayanganj,Kharif 2,21.0,70.0,Puishak,Aug,Sep to Jan,Feb,1670,30,12.0,65,75
+247,0.2874493927,Narayanganj,Kharif 2,15.0,90.0,Lentil,Oct,Nov  to  Feb,Feb to March,71,20,10.0,85,95
+44,3.477272727,Magura,Rabi,20.0,80.0,Laushak,Sep,Oct to Nov,Nov to Feb,153,25,15.0,70,90
+2,7.5,Pabna,Kharif 1,24.0,70.0,Safeda,April,No need to do,Jan to March,15,38,10.0,60,80
+177,2.807909605,Habiganj,Rabi,25.0,80.0,Danta Shak,March,April to Aug,Sep,497,32,18.0,75,85
+435,2.834482759,Manikganj,Kharif 2,21.0,70.0,Puishak,Aug,Sep to Jan,Feb,1233,30,12.0,65,75
+11778,0.5342163355,Satkhira,Kharif 2,22.5,75.0,Rape & Mustard,Oct,Nov to Feb,Feb to April,6292,30,15.0,65,85
+91,14.20879121,Thakurgaon,Kharif 1,25.0,70.0,Green Papaya,June,June to August,August to September,1293,30,20.0,60,80
+30,67,Narayanganj,Kharif 1,34.5,82.5,Jack Fruit,April,No need to do,April to June,2010,47,22.0,70,95
+0,#DIV/0!,Barishal,Kharif 1,11.5,77.5,Mukhi Kachu,April,May to Sep,Sep to Feb,0,15,8.0,65,90
+1318,0.4218512898,Sunamganj,Kharif 1,29.0,67.5,Guava,April,No need to do,Throuout The year,556,35,23.0,50,85
+959,0.3993743483,Barishal,Kharif 2,27.5,35.0,Gram,Aug,Sep to Oct,Nov,383,35,20.0,25,45
+68,4.764705882,Naogaon,Kharif 2,18.0,66.5,Carrot,Oct,Nov to Feb,March,324,21,15.0,47,86
+71,2.183098592,Chapai Nawabganj,Kharif 1,25.0,70.0,Amra,June,June to August,August to September,155,30,20.0,60,80
+56,1.410714286,Narayanganj,Rabi,25.0,80.0,Danta Shak,March,April to Aug,Sep,79,32,18.0,75,85
+7,5,Moulvibazar,Kharif 2,18.0,66.5,Carrot,Oct,Nov to Feb,March,35,21,15.0,47,86
+363,3.845730028,Narail,Kharif 2,16.0,85.0,Radish,Oct,Nov to Feb,March,1396,22,10.0,75,95
+348,2.117816092,Dinajpur,Rabi,17.5,77.5,Lemon,Jan,Jan to Jan,Jan,737,25,10.0,60,95
+309,2.093851133,Thakurgaon,Kharif 1,22.5,75.0,Chalkumra,March,April to July,July to Oct,647,27,18.0,65,85
+30,0.2666666667,Satkhira,Kharif 2,30.0,70.0,Mug,Feb,March to May,May,8,35,25.0,60,80
+2,1,Nilphamari,Kharif 1,24.0,70.0,Safeda,April,No need to do,Jan to March,2,38,10.0,60,80
+680,34.19411765,Natore,Kharif 1,34.5,82.5,Jack Fruit,April,No need to do,April to June,23252,47,22.0,70,95
+905,2.036464088,Gopalganj,Rabi,22.5,60.0,Chili,Oct,Nov to March,March to April,1843,30,15.0,50,70
+0,#DIV/0!,Nilphamari,Kharif 2,27.5,35.0,Gram,Aug,Sep to Oct,Nov,0,35,20.0,25,45
+43,0.4418604651,Narail,Kharif 2,27.5,35.0,Gram,Aug,Sep to Oct,Nov,19,35,20.0,25,45
+178,3.662921348,Sunamganj,Kharif 2,26.5,75.0,Cucumber,Sep,Nov to March,March to jun,652,35,18.0,60,90
+5,9,Natore,Kharif 1,24.0,70.0,Safeda,April,No need to do,Jan to March,45,38,10.0,60,80
+2831,5.708583539,Rajshahi,Kharif 1,20.5,72.5,Date Palm,April,No need to do,Feb to March,16161,35,6.0,60,85
+233,0.3690987124,Kishoreganj,Kharif 2,30.0,70.0,Mug,Feb,March to May,May,86,35,25.0,60,80
+950,2.788421053,Jamalpur,Rabi,20.0,60.0,Boroi,May,No need to do,February to March,2649,25,15.0,50,70
+21,1.047619048,Feni,Kharif 1,25.0,72.5,Kakrol,April,May to July,July to Sep,22,30,20.0,60,85
+487,1.176591376,Jhallokati,Rabi,20.0,75.0,Lal Shak,Sep,Oct to Nov,Nov to Feb,573,25,15.0,70,80
+427,16.9882904,Kushtia,Kharif 1,29.0,67.5,Guava,April,No need to do,Throuout The year,7254,35,23.0,50,85
+1200,1.25,Barishal,Kharif 2,30.0,75.0,Green Palmyra,April,No need to do,May,1500,35,25.0,60,90
+0,#DIV/0!,Rangamati,Kharif 2,18.0,66.5,Carrot,Oct,Nov to Feb,March,0,21,15.0,47,86
+400,16.7225,Brahmanbaria,Kharif 1,25.0,70.0,Green Coconut,May,June to August,August to September,6689,30,20.0,60,80
+180,1.033333333,Jhallokati,Kharif 2,25.0,72.5,Barbati,Sep,Oct to Dec,December to April,186,30,20.0,60,85
+400,3.965,Magura,Kharif 2,16.0,85.0,Radish,Oct,Nov to Feb,March,1586,22,10.0,75,95
+408,3.495098039,Chapai Nawabganj,Kharif 2,16.0,85.0,Radish,Oct,Nov to Feb,March,1426,22,10.0,75,95
+256,3.609375,Thakurgaon,Kharif 2,26.5,80.0,Gourd,July,Aug to Jan,Jan to March,924,35,18.0,75,85
+2379,4.088272383,Jamalpur,Kharif 2,16.0,85.0,Radish,Oct,Nov to Feb,March,9726,22,10.0,75,95
+999,10.51151151,Rangpur,Kharif 2,19.0,77.5,Cauliflower,Sep,Nov to Jan,Feb,10501,30,8.0,70,85
+637,0.748822606,Pabna,Rabi,27.5,85.0,Groundnut,Oct,Nov to March,March to April,477,35,20.0,80,90
+646,1.044891641,Shariatpur,Rabi,27.5,85.0,Groundnut,Oct,Nov to March,March to April,675,35,20.0,80,90
+217,1.31797235,Pirojpur,Kharif 1,20.0,80.0,Lady’s Finger,April,May to June,June to Sep,286,30,10.0,75,85
+1080,3.477777778,Rajbari,Kharif 1,23.0,80.0,Jhinga,April,May to June,June to Aug,3756,28,18.0,70,90
+80,11.1375,Narsingdi,Kharif 1,27.5,80.0,Jambura,April,No need to do,May to June,891,30,25.0,70,90
+0,#DIV/0!,Mymensingh,Kharif 1,24.0,70.0,Safeda,April,No need to do,Jan to March,0,38,10.0,60,80
+188,1.734042553,Manikganj,Kharif 2,25.0,70.0,Black Berry,June,July to August,June  to September,326,30,20.0,65,75
+390,1.905128205,Narail,Rabi,20.0,75.0,Lal Shak,Sep,Oct to Nov,Nov to Feb,743,25,15.0,70,80
+225181,0.7846976432,Bhola,Kharif 1,26.0,72.5,Aus,March,April to july,Aug,176699,40,12.0,60,85
+800,2.6125,Pabna,Rabi,20.0,60.0,Boroi,February,No need to do,February to March,2090,25,15.0,50,70
+207,2.937198068,Narail,Rabi,25.5,87.5,Karala,Feb,March to July,Aug to Sep,608,27,24.0,85,90
+31,4.064516129,Shariatpur,Kharif 1,32.5,65.0,Taramind,February,March to April,February to May,126,40,25.0,50,80
+0,#DIV/0!,Madaripur,Rabi,20.0,67.5,Ginger,Oct,Nov to March,March to April,0,25,15.0,60,75
+820,0.3707317073,Gaibandha,Kharif 2,27.5,35.0,Mashkalai,Aug,Sep to Oct,Nov,304,35,20.0,25,45
+2444,3.273322422,Jhallokati,Kharif 1,25.0,70.0,Green Coconut,May,June to August,August to September,8000,30,20.0,60,80
+127,2.559055118,Narail,Kharif 1,23.0,80.0,Jhinga,April,May to June,June to Aug,325,28,18.0,70,90
+3301,17.64950015,Rajbari,Kharif 2,29.0,65.0,Sugarcane,Oct,Nov to Aug,Aug to Sep,58261,38,20.0,45,85
+10947,1.132182333,Magura,Rabi,17.75,55.0,Wheat,Dec,Jan  to  March,April,12394,20,15.5,50,60
+55702,0.573031489,Naogaon,Kharif 2,22.5,75.0,Rape & Mustard,Oct,Nov to Feb,Feb to April,31919,30,15.0,65,85
+120,2.841666667,Habiganj,Rabi,20.0,67.5,Ginger,Oct,Nov to March,March to April,341,25,15.0,60,75
+3019,4.001656178,Pabna,Kharif 2,27.5,72.5,Patal,Aug,Sep to Jan,Jan to March,12081,35,20.0,60,85
+2694,11.39161099,Pirojpur,Kharif 1,29.0,67.5,Guava,April,No need to do,Throuout The year,30689,35,23.0,50,85
+0,#DIV/0!,Chandpur,Kharif 1,27.5,85.0,Malta,June,June to August,August to September,0,35,20.0,80,90
+0,#DIV/0!,Rajshahi,Rabi,21.0,62.5,Cheena,Nov,Dec to Feb,Feb to April,0,25,17.0,40,85
+0,#DIV/0!,Moulvibazar,Kharif 2,23.5,61.0,Oal Kachu,Sep,Oct to Dec,Dec to Feb,0,32,15.0,52,70
+171,1.421052632,Bhola,Kharif 1,27.5,90.0,Kolmi Shak,March,April to Aug,Sep to Oct,243,35,20.0,80,100
+37,1.783783784,Panchagar,Kharif 2,14.5,82.5,Shalgom,Sep,Oct to Nov,Nov to Feb,66,24,5.0,70,95
+55,10.41818182,Chapai Nawabganj,Rabi,20.0,60.0,Palmyra Palm,Sep,Oct to Nov,Nov to Feb,573,25,15.0,50,70
+242,6.17768595,Netrokona,Kharif 1,27.5,80.0,Jambura,April,No need to do,May to June,1495,30,25.0,70,90
+561,3.251336898,Satkhira,Kharif 2,25.0,70.0,Black Berry,June,July to August,June  to September,1824,30,20.0,65,75
+4797,2.718157182,Bogura,Rabi,20.0,67.5,Onion,Oct,Nov to March,March to April,13039,25,15.0,65,70
+388,1.729381443,Pabna,Rabi,25.0,80.0,Danta Shak,March,April to Aug,Sep,671,32,18.0,75,85
+513,1.980506823,Natore,Rabi,20.0,75.0,Lal Shak,Sep,Oct to Nov,Nov to Feb,1016,25,15.0,70,80
+136,1.176470588,Lakshmipur,Kharif 1,23.0,80.0,Jhinga,April,May to June,June to Aug,160,28,18.0,70,90
+64,5.109375,Netrokona,Kharif 1,25.0,70.0,Amra,June,June to August,August to September,327,30,20.0,60,80
+348,5.74137931,Netrokona,Kharif 1,29.0,67.5,Guava,April,No need to do,Throuout The year,1998,35,23.0,50,85
+12,0.25,Munshiganj,Kharif 2,28.0,35.0,Arhar,Aug,Sep to Oct,Nov,3,30,26.0,20,50
+0,#DIV/0!,Jhallokati,Rabi,20.0,67.5,Ginger,Oct,Nov to March,March to April,0,25,15.0,60,75
+0,#DIV/0!,Meherpur,Kharif 1,24.0,70.0,Safeda,April,No need to do,Jan to March,0,38,10.0,60,80
+2,0,Gazipur,Kharif 2,28.0,35.0,Arhar,Aug,Sep to Oct,Nov,0,30,26.0,20,50
+3,5,Cumilla,Kharif 2,14.5,82.5,Shalgom,Sep,Oct to Nov,Nov to Feb,15,24,5.0,70,95
+94,1.042553191,Chattogram,Kharif 2,25.0,67.5,Garlic,Oct,Nov to Jan,Feb,98,30,20.0,65,70
+60,1.166666667,Pirojpur,Rabi,20.0,67.5,Onion,Oct,Nov to March,March to April,70,25,15.0,65,70
+1007,28.86097319,Bagerhat,Kharif 1,25.0,70.0,Green Coconut,May,June to August,August to September,29063,30,20.0,60,80
+112,14.09821429,Shariatpur,Kharif 2,17.0,75.0,Cabbage,Sep,Oct to Jan,Feb,1579,24,10.0,60,90
+395,3.46835443,Gaibandha,Kharif 1,11.5,77.5,Mukhi Kachu,April,May to Sep,Sep to Feb,1370,15,8.0,65,90
+82100,1.524445798,Chuadanga,Rabi,26.0,72.5,Boro,Nov,Dec to March,April,125157,40,12.0,60,85
+2502,3.922861711,Brahmanbaria,Rabi,20.5,80.0,Sweet Potato,Nov,Dec to March,April,9815,24,17.0,70,90
+305,16.79672131,Khulna,Rabi,25.0,80.0,Banana,Jan,Jan to Jan,Jan,5123,35,15.0,75,85
+318,3.022012579,Thakurgaon,Kharif 2,21.0,70.0,Puishak,Aug,Sep to Jan,Feb,961,30,12.0,65,75
+0,#DIV/0!,Joypurhat,Kharif 2,26.5,75.0,Pineapple,Sep,Sep to May,June to Aug,0,35,18.0,70,80
+1499,6.112741828,Gazipur,Rabi,25.0,80.0,Banana,Jan,Jan to Jan,Jan,9163,35,15.0,75,85
+130,10.13846154,Jhallokati,Kharif 1,30.0,80.0,Ripe Papaya,April,No need to do,April to May,1318,35,25.0,70,90
+2619,4.974417717,Mymensingh,Kharif 2,16.0,85.0,Radish,Oct,Nov to Feb,March,13028,22,10.0,75,95
+341,0.6011730205,Netrokona,Kharif 2,27.5,35.0,Mashkalai,Aug,Sep to Oct,Nov,205,35,20.0,25,45
+281,15.5088968,Satkhira,Kharif 2,29.0,65.0,Sugarcane,Oct,Nov to Aug,Aug to Sep,4358,38,20.0,45,85
+48,3.854166667,Sylhet,Kharif 2,18.0,66.5,Carrot,Oct,Nov to Feb,March,185,21,15.0,47,86
+3250,3.825230769,Lakshmipur,Rabi,25.0,80.0,Banana,Jan,Jan to Jan,Jan,12432,35,15.0,75,85
+65,3.215384615,Narayanganj,Rabi,20.5,60.0,Maize 2,Dec,Jan  to  March,April,209,27,14.0,50,70
+18,1.055555556,Narayanganj,Rabi,20.0,67.5,Ginger,Oct,Nov to March,March to April,19,25,15.0,60,75
+10,0.5,Sirajganj,Kharif 2,22.5,82.5,Motor,Oct,Nov to March,March to April,5,30,15.0,75,90
+279,2.777777778,Habiganj,Rabi,25.0,80.0,Banana,Jan,Jan to Jan,Jan,775,35,15.0,75,85
+93,2.053763441,Habiganj,Kharif 2,25.0,67.5,Garlic,Oct,Nov to Jan,Feb,191,30,20.0,65,70
+0,#DIV/0!,Barishal,Kharif 2,18.0,66.5,Carrot,Oct,Nov to Feb,March,0,21,15.0,47,86
+78,0.9358974359,Meherpur,Kharif 2,30.0,70.0,Mug,Feb,March to May,May,73,35,25.0,60,80
+360,2.838888889,Pabna,Kharif 1,25.0,70.0,Wood Apple,May,June to August,August to September,1022,30,20.0,60,80
+725,3.020689655,Rangpur,Rabi,20.5,80.0,Sweet Potato,Nov,Dec to March,April,2190,24,17.0,70,90
+74,1.027027027,Sunamganj,Kharif 1,25.0,70.0,Green Papaya,June,June to August,August to September,76,30,20.0,60,80
+2016,1.437003968,Mymensingh,Kharif 1,20.5,72.5,Date Palm,April,No need to do,Feb to March,2897,35,6.0,60,85
+718,2.777158774,Pabna,Kharif 1,16.0,67.5,Beans,June,July to Nov,Nov to April,1994,22,10.0,60,75
+934,0.5471092077,Cumilla,Kharif 1,20.5,72.5,Date Palm,April,No need to do,Feb to March,511,35,6.0,60,85
+1180,7.109322034,Naogaon,Kharif 2,16.0,85.0,Radish,Oct,Nov to Feb,March,8389,22,10.0,75,95
+8204,0.3728668942,Rajshahi,Kharif 2,27.5,35.0,Mashkalai,Aug,Sep to Oct,Nov,3059,35,20.0,25,45
+28,1.964285714,Feni,Kharif 1,25.0,70.0,Amra,June,June to August,August to September,55,30,20.0,60,80
+320,2.61875,Rangpur,Rabi,20.0,60.0,Boroi,November,No need to do,February to March,838,25,15.0,50,70
+47,15.55319149,Jhenaidah,Kharif 2,30.0,80.0,Jamrul,June,July to August,June  to September,731,35,25.0,70,90
+0,#DIV/0!,Habiganj,Kharif 2,23.5,61.0,Oal Kachu,Sep,Oct to Dec,Dec to Feb,0,32,15.0,52,70
+38,3.289473684,Rangpur,Kharif 1,27.5,85.0,Malta,June,June to August,August to September,125,35,20.0,80,90
+175,3.508571429,Madaripur,Kharif 2,21.0,70.0,Puishak,Aug,Sep to Jan,Feb,614,30,12.0,65,75
+9275,0.4528301887,Kurigram,Kharif 2,22.5,75.0,Rape & Mustard,Oct,Nov to Feb,Feb to April,4200,30,15.0,65,85
+102,2.215686275,Meherpur,Kharif 2,25.0,70.0,Black Berry,June,July to August,June  to September,226,30,20.0,65,75
+161,3.763975155,Sherpur,Kharif 2,18.0,66.5,Carrot,Oct,Nov to Feb,March,606,21,15.0,47,86
+2321,5.618698837,Rangpur,Rabi,25.0,80.0,Banana,Jan,Jan to Jan,Jan,13041,35,15.0,75,85
+405,2.565432099,Gopalganj,Kharif 2,21.0,70.0,Palong Shak,Aug,Sep to Jan,Feb,1039,30,12.0,65,75
+1049,2.984747378,Satkhira,Kharif 2,27.5,72.5,Patal,Aug,Sep to Jan,Jan to March,3131,35,20.0,60,85
+325,5.996923077,Sunamganj,Rabi,25.0,80.0,Banana,Jan,Jan to Jan,Jan,1949,35,15.0,75,85
+602,2.99833887,Chuadanga,Kharif 1,20.0,80.0,Lady’s Finger,April,May to June,June to Sep,1805,30,10.0,75,85
+180,16.00555556,Sirajganj,Kharif 1,30.0,80.0,Ripe Papaya,April,No need to do,April to May,2881,35,25.0,70,90
+2961,4.901384667,Chattogram,Rabi,25.0,80.0,Banana,Jan,Jan to Jan,Jan,14513,35,15.0,75,85
+9,13.88888889,Narayanganj,Kharif 2,30.0,80.0,Jamrul,June,July to August,June  to September,125,35,25.0,70,90
+106,1.528301887,Narail,Kharif 1,25.0,70.0,Wood Apple,May,June to August,August to September,162,30,20.0,60,80
+343,3.903790087,Natore,Kharif 2,21.0,70.0,Puishak,Aug,Sep to Jan,Feb,1339,30,12.0,65,75
+134,8.171641791,Madaripur,Kharif 1,30.0,80.0,Ripe Papaya,April,No need to do,April to May,1095,35,25.0,70,90
+51,0.4117647059,Munshiganj,Rabi,21.0,62.5,Cheena,Nov,Dec to Feb,Feb to April,21,25,17.0,40,85
+253,1.150197628,Gazipur,Kharif 2,25.0,72.5,Barbati,Sep,Oct to Dec,December to April,291,30,20.0,60,85
+154,0.3766233766,Mymensingh,Kharif 2,30.0,70.0,Mug,Feb,March to May,May,58,35,25.0,60,80
+296,2.043918919,Bogura,Kharif 2,25.0,72.5,Barbati,Sep,Oct to Dec,December to April,605,30,20.0,60,85
+93,3.182795699,Kushtia,Kharif 2,18.0,66.5,Carrot,Oct,Nov to Feb,March,296,21,15.0,47,86
+367,4.741144414,Meherpur,Kharif 2,16.0,85.0,Radish,Oct,Nov to Feb,March,1740,22,10.0,75,95
+529,2.051039698,Munshiganj,Kharif 1,22.5,75.0,Chalkumra,March,April to July,July to Oct,1085,27,18.0,65,85
+166,2.530120482,Patuakhali,Kharif 2,21.0,70.0,Puishak,Aug,Sep to Jan,Feb,420,30,12.0,65,75
+90,22.23333333,Rajbari,Kharif 1,30.0,80.0,Ripe Papaya,April,No need to do,April to May,2001,35,25.0,70,90
+221,2.972850679,Bogura,Kharif 2,30.0,80.0,Betelnut,July,Aug to Jan,Jan to March,657,35,25.0,70,90
+25378,4.970013397,Satkhira,Kharif 1,30.0,75.0,Jute,March,April to Aug,Sep,126129,40,20.0,70,80
+10394,2.740908216,Dhaka,Rabi,20.5,60.0,Maize 2,Dec,Jan  to  March,April,28489,27,14.0,50,70
+249,2.108433735,Sylhet,Kharif 1,11.5,77.5,Mukhi Kachu,April,May to Sep,Sep to Feb,525,15,8.0,65,90
+386,2.841968912,Chapai Nawabganj,Rabi,25.0,80.0,Danta,March,April to Aug,Sep,1097,32,18.0,75,85
+211,1.853080569,Jhenaidah,Kharif 1,25.0,70.0,Wood Apple,May,June to August,August to September,391,30,20.0,60,80
+0,#DIV/0!,Bagerhat,Kharif 2,28.0,35.0,Arhar,Aug,Sep to Oct,Nov,0,30,26.0,20,50
+50,2.12,Nilphamari,Kharif 1,20.5,72.5,Date Palm,April,No need to do,Feb to March,106,35,6.0,60,85
+341,8.95601173,Satkhira,Kharif 1,25.0,70.0,Green Papaya,June,June to August,August to September,3054,30,20.0,60,80
+1288,6.946428571,Manikganj,Kharif 2,18.0,66.5,Carrot,Oct,Nov to Feb,March,8947,21,15.0,47,86
+1694,14.84946871,Noakhali,Kharif 1,25.0,70.0,Green Coconut,May,June to August,August to September,25155,30,20.0,60,80
+27683,4.108008525,Jamalpur,Rabi,20.5,60.0,Maize 2,Dec,Jan  to  March,April,113722,27,14.0,50,70
+682,4.159824047,Lakshmipur,Kharif 2,26.5,80.0,Gourd,July,Aug to Jan,Jan to March,2837,35,18.0,75,85
+241,0.3360995851,Mymensingh,Rabi,31.0,45.0,Sesame,Nov,Dec to Jan,Feb,81,35,27.0,40,50
+7,7,Madaripur,Kharif 1,21.5,82.5,Dalim,April,No need to do,Throuout The year,49,38,5.0,70,95
+200,128.59,Kishoreganj,Kharif 1,34.5,82.5,Jack Fruit,April,No need to do,April to June,25718,47,22.0,70,95
+304,2.552631579,Joypurhat,Kharif 2,25.0,67.5,Garlic,Oct,Nov to Jan,Feb,776,30,20.0,65,70
+1056,6.039772727,Bogura,Kharif 2,17.0,75.0,Cabbage,Sep,Oct to Jan,Feb,6378,24,10.0,60,90
+47,4.340425532,Natore,Kharif 1,32.5,65.0,Taramind,February,March to April,February to May,204,40,25.0,50,80
+65,0.4615384615,Meherpur,Kharif 2,30.0,80.0,Jamrul,June,July to August,June  to September,30,35,25.0,70,90
+1002,6.052894212,Kushtia,Kharif 2,16.0,85.0,Radish,Oct,Nov to Feb,March,6065,22,10.0,75,95
+407,4.302211302,Narsingdi,Kharif 2,19.0,77.5,Cauliflower,Sep,Nov to Jan,Feb,1751,30,8.0,70,85
+328,0.2896341463,Satkhira,Rabi,31.0,45.0,Sesame,Nov,Dec to Jan,Feb,95,35,27.0,40,50
+42,2.357142857,Feni,Kharif 1,27.5,90.0,Kolmi Shak,March,April to Aug,Sep to Oct,99,35,20.0,80,100
+56,2.535714286,Joypurhat,Rabi,25.0,80.0,Danta Shak,March,April to Aug,Sep,142,32,18.0,75,85
+818,4.371638142,Cumilla,Kharif 1,30.0,75.0,Jute,March,April to Aug,Sep,3576,40,20.0,70,80
+204,5.980392157,Jashore,Kharif 1,25.0,70.0,Amra,June,June to August,August to September,1220,30,20.0,60,80
+247,2.032388664,Jhallokati,Kharif 2,26.5,75.0,Cucumber,Sep,Nov to March,March to jun,502,35,18.0,60,90
+300,2.856666667,Sherpur,Kharif 1,23.0,80.0,Jhinga,April,May to June,June to Aug,857,28,18.0,70,90
+126,0.3888888889,Noakhali,Kharif 2,22.5,82.5,Motor,Oct,Nov to March,March to April,49,30,15.0,75,90
+214,3.887850467,Narail,Kharif 2,26.5,75.0,Cucumber,Sep,Nov to March,March to jun,832,35,18.0,60,90
+2386,31.35498743,Tangail,Kharif 1,34.5,82.5,Jack Fruit,April,No need to do,April to June,74813,47,22.0,70,95
+90,2.744444444,Pabna,Kharif 1,27.0,72.5,Maize 1,March,April to May,June to July,247,34,20.0,60,85
+0,#DIV/0!,Sylhet,Rabi,20.0,60.0,Palmyra Palm,Sep,Oct to Nov,Nov to Feb,0,25,15.0,50,70
+273,1.582417582,Bhola,Kharif 1,27.5,80.0,Jambura,April,No need to do,May to June,432,30,25.0,70,90
+6,0.1666666667,Rajshahi,Kharif 2,28.0,35.0,Arhar,Aug,Sep to Oct,Nov,1,30,26.0,20,50
+142,13.43661972,Naogaon,Kharif 1,25.0,70.0,Green Papaya,June,June to August,August to September,1908,30,20.0,60,80
+590,1.659322034,Narayanganj,Rabi,20.0,80.0,Laushak,Sep,Oct to Nov,Nov to Feb,979,25,15.0,70,90
+0,#DIV/0!,Gaibandha,Kharif 2,14.5,82.5,Shalgom,Sep,Oct to Nov,Nov to Feb,0,24,5.0,70,95
+54,4.944444444,Madaripur,Kharif 2,19.0,77.5,Cauliflower,Sep,Nov to Jan,Feb,267,30,8.0,70,85
+1,4,Bhola,Kharif 1,24.0,70.0,Safeda,April,No need to do,Jan to March,4,38,10.0,60,80
+330,4.851515152,Manikganj,Rabi,20.5,80.0,Sweet Potato,Nov,Dec to March,April,1601,24,17.0,70,90
+114,2.122807018,Barguna,Kharif 1,22.5,75.0,Chalkumra,March,April to July,July to Oct,242,27,18.0,65,85
+1213,2.615828524,Madaripur,Rabi,22.5,60.0,Chili,Oct,Nov to March,March to April,3173,30,15.0,50,70
+41,5.268292683,Naogaon,Kharif 2,30.0,80.0,Betelnut,July,Aug to Jan,Jan to March,216,35,25.0,70,90
+703,0.8677098151,Rajshahi,Rabi,27.5,85.0,Groundnut,Oct,Nov to March,March to April,610,35,20.0,80,90
+324,3.475308642,Narail,Kharif 1,20.0,80.0,Lady’s Finger,April,May to June,June to Sep,1126,30,10.0,75,85
+278,0.428057554,Sunamganj,Kharif 2,27.5,35.0,Mashkalai,Aug,Sep to Oct,Nov,119,35,20.0,25,45
+392,0.5994897959,Brahmanbaria,Rabi,27.5,85.0,Groundnut,Oct,Nov to March,March to April,235,35,20.0,80,90
+17177,5.350002911,Nilphamari,Kharif 1,30.0,75.0,Jute,March,April to Aug,Sep,91897,40,20.0,70,80
+220,2.795454545,Kishoreganj,Kharif 1,25.0,72.5,Kakrol,April,May to July,July to Sep,615,30,20.0,60,85
+268,0.302238806,Manikganj,Kharif 2,30.0,70.0,Mug,Feb,March to May,May,81,35,25.0,60,80
+45,5.777777778,Sherpur,Kharif 2,26.5,75.0,Pineapple,Sep,Sep to May,June to Aug,260,35,18.0,70,80
+484,1.564049587,Sirajganj,Kharif 1,20.0,80.0,Lady’s Finger,April,May to June,June to Sep,757,30,10.0,75,85
+0,#DIV/0!,Thakurgaon,Kharif 2,17.5,67.5,Tobacco,Oct,Nov to Feb,Feb to April,0,20,15.0,50,85
+278,3.654676259,Sylhet,Kharif 1,25.0,70.0,Green Papaya,June,June to August,August to September,1016,30,20.0,60,80
+105,7.228571429,Bogura,Rabi,20.0,60.0,Palmyra Palm,Sep,Oct to Nov,Nov to Feb,759,25,15.0,50,70
+796,3.619346734,Khagrachari,Kharif 2,26.5,80.0,Gourd,July,Aug to Jan,Jan to March,2881,35,18.0,75,85
+1185,5.974683544,Jhenaidah,Rabi,20.0,60.0,Pumpkin,Sep,Oct to Nov,Nov to Feb,7080,25,15.0,50,70
+1292,4.287925697,Mymensingh,Rabi,17.5,77.5,Lemon,Jan,Jan to Jan,Jan,5540,25,10.0,60,95
+11,3.454545455,Lalmonirhat,Kharif 2,30.0,75.0,Green Palmyra,April,No need to do,May,38,35,25.0,60,90
+191,3.382198953,Nilphamari,Rabi,20.0,80.0,Laushak,Sep,Oct to Nov,Nov to Feb,646,25,15.0,70,90
+118,2.033898305,Magura,Rabi,20.0,75.0,Lal Shak,Sep,Oct to Nov,Nov to Feb,240,25,15.0,70,80
+63,1.079365079,Munshiganj,Kharif 1,25.0,72.5,Kakrol,April,May to July,July to Sep,68,30,20.0,60,85
+103,0.1941747573,Gopalganj,Kharif 2,27.5,35.0,Gram,Aug,Sep to Oct,Nov,20,35,20.0,25,45
+784,3.955357143,Manikganj,Kharif 2,26.5,80.0,Gourd,July,Aug to Jan,Jan to March,3101,35,18.0,75,85
+20,0.1,Chattogram,Rabi,31.0,45.0,Sesame,Nov,Dec to Jan,Feb,2,35,27.0,40,50
+629,0.1685214626,Brahmanbaria,Kharif 1,32.5,65.0,Taramind,February,March to April,February to May,106,40,25.0,50,80
+42,0.1904761905,Jamalpur,Rabi,20.0,60.0,Palmyra Palm,Sep,Oct to Nov,Nov to Feb,8,25,15.0,50,70
+0,#DIV/0!,Chuadanga,Rabi,21.0,62.5,Cheena,Nov,Dec to Feb,Feb to April,0,25,17.0,40,85
+19756,0.5482385098,Narayanganj,Kharif 2,26.0,72.5,Aman,June,July to  Oct,Nov to Dec,10831,40,12.0,60,85
+63,7.603174603,Madaripur,Kharif 1,27.5,80.0,Jambura,April,No need to do,May to June,479,30,25.0,70,90
+57,1.333333333,Jhenaidah,Kharif 1,27.5,90.0,Kolmi Shak,March,April to Aug,Sep to Oct,76,35,20.0,80,100
+3993,1.135487102,Manikganj,Rabi,17.75,55.0,Wheat,Dec,Jan  to  March,April,4534,20,15.5,50,60
+399,3.676691729,Thakurgaon,Rabi,20.5,80.0,Sweet Potato,Nov,Dec to March,April,1467,24,17.0,70,90
+194395,0.9509400962,Cumilla,Kharif 1,26.0,72.5,Aus,March,April to july,Aug,184858,40,12.0,60,85
+972,3.320987654,Satkhira,Rabi,20.0,67.5,Onion,Oct,Nov to March,March to April,3228,25,15.0,65,70
+24,1.916666667,Barguna,Kharif 2,18.0,66.5,Carrot,Oct,Nov to Feb,March,46,21,15.0,47,86
+863,4.945538818,Kushtia,Kharif 2,19.0,77.5,Cauliflower,Sep,Nov to Jan,Feb,4268,30,8.0,70,85
+645472,1.078918993,Dinajpur,Kharif 2,26.0,72.5,Aman,June,July to  Oct,Nov to Dec,696412,40,12.0,60,85
+180,2.527777778,Jashore,Rabi,20.0,80.0,Laushak,Sep,Oct to Nov,Nov to Feb,455,25,15.0,70,90
+4171,0.5269719492,Natore,Kharif 2,22.5,75.0,Rape & Mustard,Oct,Nov to Feb,Feb to April,2198,30,15.0,65,85
+0,#DIV/0!,CoxsBazar,Kharif 2,27.5,35.0,Gram,Aug,Sep to Oct,Nov,0,35,20.0,25,45
+888,3.031531532,Munshiganj,Kharif 2,19.0,77.5,Cauliflower,Sep,Nov to Jan,Feb,2692,30,8.0,70,85
+251,2.721115538,Bhola,Kharif 1,22.5,75.0,Chalkumra,March,April to July,July to Oct,683,27,18.0,65,85
+669,2.92077728,Kushtia,Kharif 1,16.0,67.5,Beans,June,July to Nov,Nov to April,1954,22,10.0,60,75
+346,2.768786127,Bogura,Kharif 2,21.0,70.0,Palong Shak,Aug,Sep to Jan,Feb,958,30,12.0,65,75
+750,2.38,Tangail,Kharif 1,20.5,72.5,Date Palm,April,No need to do,Feb to March,1785,35,6.0,60,85
+132,1.106060606,Sylhet,Rabi,20.0,80.0,Laushak,Sep,Oct to Nov,Nov to Feb,146,25,15.0,70,90
+1095,2.19543379,Jhallokati,Rabi,20.5,60.0,Maize 2,Dec,Jan  to  March,April,2404,27,14.0,50,70
+358,2.089385475,Gazipur,Kharif 1,25.0,70.0,Wood Apple,May,June to August,August to September,748,30,20.0,60,80
+30,3.566666667,Natore,Kharif 1,27.5,85.0,Malta,June,June to August,August to September,107,35,20.0,80,90
+664,3.239457831,Dinajpur,Kharif 1,11.5,77.5,Mukhi Kachu,April,May to Sep,Sep to Feb,2151,15,8.0,65,90
+175,2.314285714,Lakshmipur,Kharif 2,19.0,77.5,Cauliflower,Sep,Nov to Jan,Feb,405,30,8.0,70,85
+16,6.75,Thakurgaon,Kharif 1,25.0,70.0,Amra,June,June to August,August to September,108,30,20.0,60,80
+3135,8.558532695,Gazipur,Kharif 2,29.0,65.0,Sugarcane,Oct,Nov to Aug,Aug to Sep,26831,38,20.0,45,85
+31,3.483870968,Netrokona,Kharif 1,32.5,65.0,Taramind,February,March to April,February to May,108,40,25.0,50,80
+131,13.73282443,Magura,Rabi,20.0,60.0,Palmyra Palm,Sep,Oct to Nov,Nov to Feb,1799,25,15.0,50,70
+1382,6.487698987,Naogaon,Kharif 2,19.0,77.5,Cauliflower,Sep,Nov to Jan,Feb,8966,30,8.0,70,85
+757,7.071334214,Gazipur,Kharif 2,19.0,77.5,Cauliflower,Sep,Nov to Jan,Feb,5353,30,8.0,70,85
+83,2.096385542,Manikganj,Kharif 1,25.0,72.5,Kakrol,April,May to July,July to Sep,174,30,20.0,60,85
+103,0.9126213592,Rajbari,Kharif 2,17.5,67.5,Tobacco,Oct,Nov to Feb,Feb to April,94,20,15.0,50,85
+793,5.253467844,Gopalganj,Rabi,20.0,60.0,Pumpkin,Sep,Oct to Nov,Nov to Feb,4166,25,15.0,50,70
+279580,1.103355033,Nilphamari,Kharif 2,26.0,72.5,Aman,June,July to  Oct,Nov to Dec,308476,40,12.0,60,85
+85,1.141176471,Patuakhali,Kharif 2,25.0,72.5,Barbati,Sep,Oct to Dec,December to April,97,30,20.0,60,85
+431833,0.749345233,Patuakhali,Kharif 2,26.0,72.5,Aman,June,July to  Oct,Nov to Dec,323592,40,12.0,60,85
+177,1.548022599,Chandpur,Kharif 1,23.0,80.0,Jhinga,April,May to June,June to Aug,274,28,18.0,70,90
+0,#DIV/0!,Narsingdi,Rabi,20.0,60.0,Palmyra Palm,Sep,Oct to Nov,Nov to Feb,0,25,15.0,50,70
+32,1.375,Shariatpur,Kharif 1,27.5,90.0,Kolmi Shak,March,April to Aug,Sep to Oct,44,35,20.0,80,100
+400,2.45,Meherpur,Rabi,20.0,60.0,Boroi,February,No need to do,February to March,980,25,15.0,50,70
+379,7.071240106,Feni,Kharif 2,26.5,80.0,Gourd,July,Aug to Jan,Jan to March,2680,35,18.0,75,85
+20,2.6,Feni,Kharif 2,26.5,75.0,Pineapple,Sep,Sep to May,June to Aug,52,35,18.0,70,80
+167,0.4251497006,Chandpur,Kharif 2,30.0,70.0,Mug,Feb,March to May,May,71,35,25.0,60,80
+5307,0.302996043,Chapai Nawabganj,Kharif 2,15.0,90.0,Lentil,Oct,Nov  to  Feb,Feb to March,1608,20,10.0,85,95
+566,1.768551237,Bandarban,Kharif 1,16.0,67.5,Beans,June,July to Nov,Nov to April,1001,22,10.0,60,75
+1129,1.568644818,Gazipur,Kharif 1,16.0,67.5,Beans,June,July to Nov,Nov to April,1771,22,10.0,60,75
+161,0.6459627329,Pabna,Kharif 2,27.5,35.0,Gram,Aug,Sep to Oct,Nov,104,35,20.0,25,45
+188,2.79787234,CoxsBazar,Rabi,20.0,75.0,Lal Shak,Sep,Oct to Nov,Nov to Feb,526,25,15.0,70,80
+2,2,CoxsBazar,Kharif 2,28.0,35.0,Arhar,Aug,Sep to Oct,Nov,4,30,26.0,20,50
+300,3.303333333,Noakhali,Rabi,20.0,60.0,Boroi,April,No need to do,February to March,991,25,15.0,50,70
+210,8.8,Noakhali,Kharif 2,29.0,65.0,Sugarcane,Oct,Nov to Aug,Aug to Sep,1848,38,20.0,45,85
+59351,0.8480733265,Pabna,Kharif 1,26.0,72.5,Aus,March,April to july,Aug,50334,40,12.0,60,85
+0,#DIV/0!,Patuakhali,Kharif 2,27.5,72.5,Patal,Aug,Sep to Jan,Jan to March,0,35,20.0,60,85
+5,2,Cumilla,Kharif 2,23.5,61.0,Oal Kachu,Sep,Oct to Dec,Dec to Feb,10,32,15.0,52,70
+52,0.5192307692,Sirajganj,Kharif 2,27.5,35.0,Gram,Aug,Sep to Oct,Nov,27,35,20.0,25,45
+167,13.11377246,Faridpur,Rabi,20.0,60.0,Palmyra Palm,Sep,Oct to Nov,Nov to Feb,2190,25,15.0,50,70
+0,#DIV/0!,Natore,Rabi,21.0,62.5,Cheena,Nov,Dec to Feb,Feb to April,0,25,17.0,40,85
+1084,8.277675277,Sunamganj,Kharif 2,19.0,77.5,Cauliflower,Sep,Nov to Jan,Feb,8973,30,8.0,70,85
+177,0.3672316384,Barguna,Kharif 2,15.0,90.0,Lentil,Oct,Nov  to  Feb,Feb to March,65,20,10.0,85,95
+798,2.617794486,Tangail,Kharif 2,26.5,75.0,Cucumber,Sep,Nov to March,March to jun,2089,35,18.0,60,90
+37,1.189189189,Gazipur,Kharif 1,27.5,90.0,Kolmi Shak,March,April to Aug,Sep to Oct,44,35,20.0,80,100
+720,1.972222222,Rangpur,Kharif 1,23.0,80.0,Jhinga,April,May to June,June to Aug,1420,28,18.0,70,90
+415,3.122891566,Brahmanbaria,Rabi,20.0,60.0,Pumpkin,Sep,Oct to Nov,Nov to Feb,1296,25,15.0,50,70
+1426,3.512622721,Habiganj,Kharif 1,16.0,67.5,Beans,June,July to Nov,Nov to April,5009,22,10.0,60,75
+878,3.724373576,Khagrachari,Rabi,20.5,80.0,Sweet Potato,Nov,Dec to March,April,3270,24,17.0,70,90
+142,2.605633803,CoxsBazar,Kharif 1,25.0,70.0,Amra,June,June to August,August to September,370,30,20.0,60,80
+0,#DIV/0!,Gopalganj,Kharif 2,17.5,67.5,Tobacco,Oct,Nov to Feb,Feb to April,0,20,15.0,50,85
+630,7.279365079,Khulna,Kharif 2,17.0,75.0,Cabbage,Sep,Oct to Jan,Feb,4586,24,10.0,60,90
+11,0.3636363636,Sherpur,Kharif 2,30.0,70.0,Mug,Feb,March to May,May,4,35,25.0,60,80
+102319,5.009998143,Pabna,Kharif 1,30.0,75.0,Jute,March,April to Aug,Sep,512618,40,20.0,70,80
+109,3.651376147,Chapai Nawabganj,Kharif 1,27.5,80.0,Jambura,April,No need to do,May to June,398,30,25.0,70,90
+532,12.81390977,Pabna,Kharif 1,29.0,67.5,Guava,April,No need to do,Throuout The year,6817,35,23.0,50,85
+20,5,Kushtia,Kharif 1,25.0,72.5,Kakrol,April,May to July,July to Sep,100,30,20.0,60,85
+16,5.375,Dhaka,Rabi,20.0,67.5,Ginger,Oct,Nov to March,March to April,86,25,15.0,60,75
+182,1.098901099,Bandarban,Rabi,20.0,80.0,Laushak,Sep,Oct to Nov,Nov to Feb,200,25,15.0,70,90
+871,7.977037887,Mymensingh,Rabi,20.0,60.0,Pumpkin,Sep,Oct to Nov,Nov to Feb,6948,25,15.0,50,70
+31,9.774193548,Joypurhat,Kharif 1,25.0,70.0,Amra,June,June to August,August to September,303,30,20.0,60,80
+0,#DIV/0!,Khagrachari,Kharif 2,27.5,35.0,Gram,Aug,Sep to Oct,Nov,0,35,20.0,25,45
+435,3.834482759,Jhenaidah,Kharif 1,22.5,75.0,Chalkumra,March,April to July,July to Oct,1668,27,18.0,65,85
+310,3.8,Sylhet,Kharif 2,26.5,75.0,Cucumber,Sep,Nov to March,March to jun,1178,35,18.0,60,90
+1142,2.758318739,Bogura,Kharif 1,27.0,72.5,Maize 1,March,April to May,June to July,3150,34,20.0,60,85
+1526,2.81061599,Cumilla,Rabi,20.0,60.0,Boroi,November,No need to do,February to March,4289,25,15.0,50,70
+9772,0.3104789194,Rajbari,Kharif 1,20.5,72.5,Date Palm,April,No need to do,Feb to March,3034,35,6.0,60,85
+325,2.547692308,Kurigram,Kharif 2,21.0,70.0,Palong Shak,Aug,Sep to Jan,Feb,828,30,12.0,65,75
+0,#DIV/0!,Mymensingh,Rabi,20.0,60.0,Palmyra Palm,Sep,Oct to Nov,Nov to Feb,0,25,15.0,50,70
+0,#DIV/0!,Joypurhat,Kharif 2,27.5,35.0,Gram,Aug,Sep to Oct,Nov,0,35,20.0,25,45
+2892,4.860650069,Chattogram,Kharif 2,16.0,85.0,Radish,Oct,Nov to Feb,March,14057,22,10.0,75,95
+830,1.356626506,Satkhira,Kharif 2,30.0,80.0,Betelnut,July,Aug to Jan,Jan to March,1126,35,25.0,70,90
+7,0.2857142857,Gazipur,Kharif 2,22.5,82.5,Motor,Oct,Nov to March,March to April,2,30,15.0,75,90
+25646,1.175777899,Bandarban,Kharif 2,26.0,72.5,Aman,June,July to  Oct,Nov to Dec,30154,40,12.0,60,85
